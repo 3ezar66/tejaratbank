@@ -1,0 +1,25 @@
+HTTP/1.1 200
+Server: nginx
+Date: Fri, 15 Aug 2025 09:40:07 GMT
+Content-Type: application/json
+Connection: keep-alive
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+Access-Control-Allow-Origin: *
+Set-Cookie: JSESSIONID=D458E0667AA0E7227F614B010E93998A; Path=/; HttpOnly
+X-RateLimit-Limit-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_200_86400: 200
+X-RateLimit-Remaining-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_200_86400: 199
+X-RateLimit-Reset-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_200_86400: 86400000
+X-RateLimit-Limit-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_20_60: 20
+X-RateLimit-Remaining-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_20_60: 19
+X-RateLimit-Reset-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_20_60: 60000
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Expires: Fri, 15 Aug 2025 09:40:06 GMT
+X-Frame-Options: DENY
+Cache-Control: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+content-length: 15267
+

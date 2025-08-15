@@ -1,0 +1,2602 @@
+{welcome: " خوش آمدید", TEJARAT_BANK: "بانک تجارت", MOBILE_BANK_TEJERAT: "همراه بانک تجارت",…}
+" b n"
+: 
+"رد ضمانت"
+ABOUT_US
+: 
+"درباره ما"
+ACCEPT
+: 
+"پذیرش"
+ACCEPT_CHEQUE
+: 
+"پذیرش چک"
+ACCEPT_PHONENUMBER
+: 
+"شماره تلفن همراه مورد تایید می باشد؟"
+ACCOUNT
+: 
+"حساب"
+ACCOUNTS
+: 
+"حساب ها"
+ACCOUNT_BALANCE
+: 
+"موجودی قابل برداشت"
+ACCOUNT_BALANCE_UPDATED
+: 
+"موجودی حساب بروزرسانی شد."
+ACCOUNT_BLOCKED_SUCCESSFULLY
+: 
+"حساب شما با موفقیت مسدود شد"
+ACCOUNT_DYNAMIC_PASS
+: 
+"رمز پویا حسابی"
+ACCOUNT_INFO
+: 
+"اطلاعات حساب"
+ACCOUNT_INFO_SAVED
+: 
+"اطلاعات حساب ذخیره شد"
+ACCOUNT_IS_ACTIVE
+: 
+"حساب مورد نظر فعال می باشد"
+ACCOUNT_IS_INACTIVE
+: 
+"حساب موردنظر غیرفعال می باشد"
+ACCOUNT_MOBILE_BANK_PASS
+: 
+"رمز یکبار مصرف حساب"
+ACCOUNT_NUMBER
+: 
+"شماره حساب"
+ACCOUNT_NUMBER_COPIED_TO_CLIPBOARD
+: 
+"شماره حساب در حافظه موقت ذخیره شد."
+ACCOUNT_NUMBER_TEMPLATE
+: 
+"شماره حساب قالب:"
+ACCOUNT_OWNER_NAME
+: 
+"نام صاحب حساب"
+ACCOUNT_TITLE
+: 
+"عنوان حساب"
+ACTION_MESSAGE_BOX
+: 
+"عملیات صندوق پیام"
+ACTIVE
+: 
+"فعال"
+ACTIVEE
+: 
+"فعالسازی"
+ACTIVE_DYNAMIC_PASS
+: 
+"فعالسازی رمز پویا"
+ACTIVE_INSTANT_MESSAGE_EXP
+: 
+"فعال: دریافت تمام پیامک های واریز و برداشت. ( این سرویس شامل کسر کارمزد می باشد )"
+ADD
+: 
+" افزودن"
+ADDRESS
+: 
+"آدرس"
+ADDRESS_CODE
+: 
+"کد آدرس"
+ADD_ACCOUNT
+: 
+"افزودن حساب"
+ADD_ACCOUNT_DESC
+: 
+"لطفا شماره همراه خود را جهت فعال سازی وارد کرده و گزینه ارسال رو انتخاب کنید."
+ADD_CARD
+: 
+"افزودن کارت"
+ADD_GROUP_INFORMATION
+: 
+"اطلاعات گروه ذخیره شد."
+ADD_NEW_BENEFICIARY
+: 
+"افزودن گیرنده جدید"
+ADD_NEW_CHEQUE
+: 
+"افزودن چک جدید"
+ADD_NEW_COMMAND
+: 
+"افزودن دستور جدید"
+ADD_NEW_GROUP
+: 
+"افزودن گروه جدید"
+ADD_NEW_GROUP_TO_LIST
+: 
+"افزودن گروه جدید به لیست گروه ها"
+ADD_NEW_GUARANTOR
+: 
+"افزودن ضامن جدید"
+ADD_NEW_MEMBER
+: 
+"افزودن عضو جدید"
+ADD_NEW_MEMBER_TO_LIST
+: 
+"افزودن عضو جدید به گروه مخاطبین"
+ADD_NEW_PERSON
+: 
+"افزودن شخص جدید"
+ADD_NEW_PERSON_TOLIST
+: 
+"افزودن شخص جدید به لیست"
+ADD_NEW_PLATE
+: 
+"افزودن خودرو جدید"
+ADD_NEW_PLATE_TITLE
+: 
+"عوارض خودرو و طرح ترافیک"
+ADD_NEW_REQUEST_CARDLESS_NEW
+: 
+"افزودن درخواست جدید"
+ADD_NEW_REQUEST_CARDLESS_SERVICES
+: 
+"افزودن درخواست خدمات بدون کارت"
+ADD_NEW_SIGNER
+: 
+"افزودن امضاکننده جدید"
+ADD_PERSON
+: 
+"افزودن شخص"
+ADD_SAYAD_CHEQUE
+: 
+"افزودن به چک های صادر شده"
+ADD_TO_SCREEN
+: 
+"Add"
+ADD_TO_SCREEN_HEADER_END
+: 
+"را به صفحه اصلی خود اضافه کرده و بدون نیاز به بروزرسانی از خدمات آن استفاده نمایید."
+ADD_TO_SCREEN_HEADER_START
+: 
+"با انجام مراحل زیر نسخه وب اپلیکیشن "
+ADVERTISEMENT_SHARE_IMG
+: 
+"عملیات بانکی خود را به همراه بانک تجارت بسپارید، حتی اگر در بانک ما حساب ندارید."
+AD_PERSON_DEFINE
+: 
+"فرد جدید را برای درخواست وجه اضافه کنید"
+AIR_POLLUTION_CONTROLLER
+: 
+"روزهای مجاز باقیمانده در طرح کنترل آلودگی هوا"
+AIR_POLLUTION_CONTROLLER_LIST
+: 
+"لیست تردد طرح کنترل آلودگی هوا"
+AIR_POLLUTION_PAYMENT
+: 
+"طرح ترافیک خودرو"
+AIR_POLLUTION_PAY_AMOUNT
+: 
+"مبلغ قابل پرداخت"
+ALL
+: 
+"همه"
+AMOUNT
+: 
+"مبلغ"
+AMOUNT_WITHDRAWAL
+: 
+"مبلغ قابل برداشت"
+ANNUAL_TOLL_CONTROLLER
+: 
+"عوارض سالیانه خودرو"
+ANNUAL_TOLL_CONTROLLER_LIST
+: 
+"لیست عوارض سالیانه"
+ASSURE_DELETE_PLATE
+: 
+"آیا از حذف این خودرو اطمینان دارید؟"
+AUTO_CHARGE
+: 
+"شارژ خودکار"
+AUTUMN
+: 
+"پاییز"
+Accept
+: 
+"قبول"
+BALANCE
+: 
+"موجودی"
+BANK
+: 
+"بانک"
+BANK_TITLE
+: 
+"نام بانک"
+BARCODE_READER
+: 
+"بارکدخوان"
+BENEFICIARIES
+: 
+"گیرندگان"
+BENEFICIARIES_INFO
+: 
+"مشخصات گیرنده"
+BENEFICIARY
+: 
+"ذینفع"
+BILL
+: 
+"قبض"
+BILLA_ADD
+: 
+"افزودن قبض جدید"
+BILL_DELETE_SUCCESS
+: 
+"قبض با موفقیت حذف شد"
+BILL_EDIT
+: 
+"ویرایش قبض"
+BILL_EDIT_SUCCESS
+: 
+"قبض با موفقیت ویرایش شد"
+BILL_GENERAL
+: 
+"خدماتی"
+BILL_IDENTIFIRE
+: 
+"شناسه قبض"
+BILL_LIST
+: 
+"لیست قبض ها"
+BILL_MANAGEMENT
+: 
+"مدیریت قبض ها"
+BILL_NULL
+: 
+"قبضی پرداخت نشده است"
+BILL_TAXES
+: 
+"عوارض"
+BILL_TITLE
+: 
+"عنوان قبض"
+BILL_TYPE
+: 
+"نوع قبض"
+BLOCK_ACCOUNT
+: 
+"مسدودی حساب"
+BLOCK_ACCOUNT_CARD
+: 
+"مسدودی کارت و خدمات نوین"
+BLOCK_ACCOUNT_INQUERY
+: 
+"استعلام مسدودی حساب"
+BLOCK_ACCOUNT_SERVICES
+: 
+"مسدودی خدمات نوین (همراه بانک، اینترنت بانک، تلفن بانک)"
+BLOCK_CARD
+: 
+"مسدودی کارت"
+BRANCHES_ARROUND
+: 
+"شعب اطراف من"
+BRANCHES_DEBT
+: 
+"بدهی واگذاری انشعاب برای انشعابات قسط"
+BRANCH_CODE
+: 
+"کد شعبه"
+BRANCH_PHONE
+: 
+"شماره تلفن شماره"
+BUY_CHARGE
+: 
+"خرید شارژ"
+CAHRGE_AMOUNT
+: 
+"مبلغ شارژ"
+CALCULATOR
+: 
+"ماشین حساب"
+CANCEL
+: 
+"لغو"
+CAPACITY
+: 
+"ظرفیت"
+CAPTCHA
+: 
+"کد امنیتی"
+CAPTCHA_ENTER_USERNAME
+: 
+"برای دریافت کد کپچا جدید لطفا نام کاربری را وارد نمایید."
+CAPTCHA_ERROR
+: 
+"کد کپچا نادرست است"
+CARD
+: 
+"کارت"
+CARDS
+: 
+"کارت ها"
+CARD_BALANCE
+: 
+"موجودی قابل برداشت"
+CARD_BALANCE_ENABLE_TEJARAT
+: 
+"سرویس مورد نظر تنها در کارت بانک تجارت فعال می باشد."
+CARD_BALANCE_UPDATED
+: 
+"موجوی کارت بروزرسانی شد."
+CARD_BLOCKED_SUCCESSFULLY
+: 
+"کارت شما با موفقیت مسدود شد"
+CARD_CONFIRMATION_TOP_MSG
+: 
+" برای مشاهده نام دارنده کارت مقصد، مشخصات کارت خود را وارد نمایید و کلید استعلام را بزنید."
+CARD_DEACTIVE_DYNAMIC_PASS
+: 
+" حذف می گردد."
+CARD_DISABLE_DYNAMIC_PASS1
+: 
+"رمزپویا برای کارت به شماره"
+CARD_DISABLE_DYNAMIC_PASS2
+: 
+" غیرفعال می گردد."
+CARD_DYNAMIC_PASS
+: 
+"رمز پویا کارتی"
+CARD_INFO_SAVED
+: 
+"اطلاعات کارت ذخیره شد"
+CARD_LESS_DETAILS
+: 
+"جزییات درخواست"
+CARD_LESS_RECEIPT
+: 
+"رسید پرداخت بدون کارت"
+CARD_LESS_SERVICES
+: 
+"خدمات بدون کارت"
+CARD_LESS_SERVICES_PASSWORD
+: 
+"رمز حواله خدمات بدون کارت(4 رقم به دلخواه مشتری)"
+CARD_LESS_SERVICES_PASSWORD_REPEAT
+: 
+"تکرار رمز حواله خدمات بدون کارت"
+CARD_NUMBER
+: 
+"شماره کارت"
+CARD_NUMBER_COPIED_TO_CLIPBOARD
+: 
+"شماره کارت در حافظه موقت ذخیره شد"
+CARD_OWNER_NAME
+: 
+"نام صاحب کارت"
+CARD_SERVICES
+: 
+"خدمات کارت"
+CARD_STATUS_DYNAMIC_PASS
+: 
+"سرویس درخواستی به زودی راه اندازی خواهد شد"
+CARD_SUCCESSFUL_CARD_DISABLE
+: 
+"با موفقیت غیرفعال شد"
+CARD_TITLE
+: 
+"عنوان کارت"
+CASH_WITHDRAW
+: 
+"برداشت وجه"
+CELL_PHONE_TITLE
+: 
+"تلفن"
+CHANGE_PASSWORD
+: 
+"تغییر رمز ورود به برنامه"
+CHARGE
+: 
+"شارژ"
+CHARGE_CODE_COPIED_TO_CLIPBOARD
+: 
+"کد شارژ در حافظه موقت ذخیره شد"
+CHARGE_NULL
+: 
+"شارژ همراه انجام نشده است"
+CHARGE_TYPE
+: 
+"نوع شارژ"
+CHARGE_TYPE_0
+: 
+"عادی"
+CHARGE_TYPE_1
+: 
+"شگفت انگیز"
+CHARGE_TYPE_2
+: 
+"شورانگیز"
+CHARITY
+: 
+"نیکوکاری"
+CHARITY_MIN_AMOUNT
+: 
+"حداقل مبلغ نیکوکاری 1000 ریال می باشد"
+CHARITY_NULL
+: 
+"نیکوکاری انجام نشده است"
+CHARITY_ORG_ACCOUNT_NUMBER
+: 
+"شماره حساب موسسه"
+CHARITY_ORG_CARD_NUMBER
+: 
+"شماره کارت موسسه"
+CHARITY_ORG_NAME
+: 
+"نام موسسه"
+CHECKAD_ACTIVATE_UPDATE
+: 
+"فعالسازی / بروزرسانی در سامانه چکاد"
+CHECK_ISSUANCE_RECEIPT
+: 
+"رسید صدور چک"
+CHECK_OPERATION
+: 
+"عملیات چک "
+CHEKAD
+: 
+"چکاد"
+CHEKAD_ACTIVATE
+: 
+"فعالسازی در سامانه چکاد"
+CHEKAD_ADD_BENEFICIARY_FORCED
+: 
+"لطفا گیرندگان را وارد نمایید."
+CHEKAD_ADD_ELECTRONIC_REQUEST
+: 
+"افزودن درخواست دسته چک دیجیتال"
+CHEKAD_ADD_NEW_REQUEST
+: 
+"افزودن درخواست جدید"
+CHEKAD_ADD_PAPER_REQUEST
+: 
+"افزودن درخواست دسته چک "
+CHEKAD_ADD_PERSON_LIST
+: 
+"افزودن شخص جدید به لیست"
+CHEKAD_ASSIGN_UPDATE
+: 
+" به منظور بروزرسانی کارتابل، ابتدا از طریق اپلیکیشن هامون اقدام به ثبت امضای دیجیتال نمایید."
+CHEKAD_BANKTYPE_ERROR
+: 
+"بانک مورد نظر را انتخاب کنید"
+CHEKAD_BANK_NAME
+: 
+"بانک عامل"
+CHEKAD_BENEFICIARIES
+: 
+"دارندگان چک"
+CHEKAD_BLOCK
+: 
+"مسدودی"
+CHEKAD_BLOCK_AND_UNBLOCK
+: 
+"مسدودی / رفع مسدودی چک"
+CHEKAD_BLOCK_HAMON
+: 
+" به منظور مسدودی و رفع مسدودی، ابتدا از طریق اپلیکیشن هامون اقدام به ثبت امضای دیجیتال نمایید."
+CHEKAD_BLOCK_STATUS
+: 
+"وضعیت مسدودی چک"
+CHEKAD_BLOCK_UNBLOCK
+: 
+"مسدودی / رفع مسدودی"
+CHEKAD_CANCELLATION
+: 
+"ابطال چک"
+CHEKAD_CANCELLATION_WITH_SAYADNUMBER
+: 
+"آیا از ابطال چک با شناسه صیاد "
+CHEKAD_CARTABLE_OF_INCOMING_CHECKS
+: 
+"کارتابل چک های دریافتی"
+CHEKAD_CHECKBOOK
+: 
+"دسته چک"
+CHEKAD_CHECKBOOK_ACCOUNT_ERROR
+: 
+"گزینه مناسب برای شماره حساب را انتخاب کنید"
+CHEKAD_CHECKBOOK_NEW
+: 
+"افزودن دسته چک جدید"
+CHEKAD_CHECKBOOK_PAGE
+: 
+"برگه چک"
+CHEKAD_CHECKBOOK_REQUEST
+: 
+"درخواست دسته چک"
+CHEKAD_CHECKBOOK_TYPE_ERROR
+: 
+"گزینه مناسب برای تعداد برگ دسته چک را انتخاب کنید"
+CHEKAD_CHECK_KIND
+: 
+"نوع چک"
+CHEKAD_CLIENT_PROFILE
+: 
+"پروفایل مشتری در چکاد"
+CHEKAD_COMPELETE_OTP_FIELD
+: 
+"لطفا رمز پیامک شده را وارد کنید"
+CHEKAD_DEACTIVE
+: 
+"غیرفعالسازی در سامانه چکاد"
+CHEKAD_DELIVER_DATE
+: 
+"تاریخ تحویل"
+CHEKAD_DESCRIPTION
+: 
+"شرح چک"
+CHEKAD_DETAILS_INQUIRY
+: 
+"استعلام مشخصات چک دیجیتال"
+CHEKAD_DETAILS_INQUIRY_OF_GUARANTOR
+: 
+"استعلام اطلاعات چک توسط ضامن"
+CHEKAD_DETERMIND_GUARANTOR
+: 
+"تعیین ضامن توسط صادرکننده چک"
+CHEKAD_EDIT_SUCCESS
+: 
+"ویرایش با موفقیت انجام شد"
+CHEKAD_ELECTRONIC_OPERATIONS
+: 
+"عملیات چک دیجیتال"
+CHEKAD_EXCHANGE_DATE
+: 
+"تاریخ تبادل"
+CHEKAD_FILL_INPUTS
+: 
+"تکمیل تمامی فیلدها اجباری است"
+CHEKAD_FINAL_STATUS
+: 
+"ثبت نهایی"
+CHEKAD_GIVEBACK_CONFIRM
+: 
+"آیا عودت چک با شماره صیاد  "
+CHEKAD_GUARANTEE
+: 
+"ضمانت چک"
+CHEKAD_GUARANTEE_ACCEPT
+: 
+"قبول ضمانت"
+CHEKAD_GUARANTEE_OPERATIONS
+: 
+"عملیات ضمانت چک"
+CHEKAD_GUARANTEE_REQUEST_NOTE
+: 
+"در صورتی که چک انتقال پیدا کرده و یا نقد شده باشد امکان ارایه این سرویس وجود ندارد"
+CHEKAD_GUARANTEE_STATUS
+: 
+"وضعیت ضمانت"
+CHEKAD_GUARANTEE_STATUS_INQUIRY
+: 
+"استعلام وضعیت ضمانت چک"
+CHEKAD_GUARANTORS_NAME
+: 
+"اسامی ضامنین"
+CHEKAD_ISSUED
+: 
+"چک های صادر شده"
+CHEKAD_ISSUE_DATE
+: 
+"تاریخ ثبت چک"
+CHEKAD_ISSUING_CHECK
+: 
+"صدور چک"
+CHEKAD_LAST_UPDATE
+: 
+"آخرین بروزرسانی"
+CHEKAD_OTHER_SEVICES
+: 
+"سایر خدمات چک"
+CHEKAD_PASS_CHECK
+: 
+"نقد کردن چک"
+CHEKAD_RECEIPT
+: 
+"رسید دسته چک"
+CHEKAD_REGISTERED_DATE
+: 
+"تاریخ ثبت چک"
+CHEKAD_REGISTERED_HISTORY
+: 
+"سوابق چک های ثبت شده"
+CHEKAD_REJECT
+: 
+"عودت"
+CHEKAD_REQUEST_GUARANTEE
+: 
+"درخواست ضمانت"
+CHEKAD_REQUEST_STOP_GUARANTEE
+: 
+"درخواست / توقف ضمانت چک"
+CHEKAD_REQUEST_STOP_GUARANTEE_BY_RECIEVER
+: 
+"درخواست / توقف ضمانت چک از سمت زینفع"
+CHEKAD_RULES
+: 
+"قوانین چک"
+CHEKAD_SAYAD_NUBER
+: 
+"شماره صیاد"
+CHEKAD_SENDER
+: 
+"صادرکنندگان"
+CHEKAD_SEND_REQUEST
+: 
+"ارسال درخواست به شعبه"
+CHEKAD_SENT_TO_CENTER
+: 
+"ارسال درخواست سامانه چکاد"
+CHEKAD_SENT_TO_CENTER_TEXT
+: 
+"برای تایید نهایی چک، باید درخواست شما به سامانه چکاد ارسال گردد. از طریق دکمه ارسال درخواست می توانید در این مرحله درخواست خود را به سامانه چکاد ارسال نمایید."
+CHEKAD_SERI
+: 
+"سری چک"
+CHEKAD_SERIAL_ERROR
+: 
+"سریال چک را وارد نمایید"
+CHEKAD_SERIAL_FROM
+: 
+"سریال چک از"
+CHEKAD_SERIAL_TO
+: 
+"سریال چک تا"
+CHEKAD_SHEBA_NUMBER
+: 
+"شماره شبا"
+CHEKAD_STATUS
+: 
+"وضعیت چک"
+CHEKAD_STOP_GUARANTEE
+: 
+"توقف ضمانت"
+CHEKAD_STOP_GUARANTEE_REQUEST
+: 
+"درخواست توقف ضمانت چک"
+CHEKAD_SURE_GIVEBACK
+: 
+" مورد تایید است؟"
+CHEKAD_SURE_REQUEST
+: 
+" اطمینان دارید؟"
+CHEKAD_THREE_MONTHS_ERROR
+: 
+"نمایش اطلاعات تنها در بازه سه ماهه مقدور میباشد."
+CHEKAD_TRANSACTION
+: 
+"تراکنش چک صیادی"
+CHEKAD_TRANSFER
+: 
+"انتقال"
+CHEKAD_TRANSFEREE
+: 
+"انتقال گیرنده"
+CHEKAD_TRANSFER_CONFIRM
+: 
+"آیا انتقال چک با شناسه صیاد  "
+CHEKAD_TRANSFER_CONFIRM_Q
+: 
+"مورد تایید است؟"
+CHEKAD_TRANSFER_GIVEBACK
+: 
+"انتقال / عودت"
+CHEKAD_UNBLOCK
+: 
+"رفع مسدودی"
+CHEQUE_ACCOUNTNUMBER_OBLIGATION
+: 
+"تکمیل فیلد شماره حساب الزامی است"
+CHEQUE_BENEFICIARY_OBLIGATION
+: 
+"لیست گیرندگان و امضاکنندگان را تکمیل نمائید"
+CHEQUE_DRAWER_OPERATION
+: 
+"افزودن چک"
+CHEQUE_INQUERY
+: 
+"استعلام چک"
+CHEQUE_MANAGEMENT
+: 
+"مدیریت چک"
+CHEQUE_NATIONALCODE_OBLIGATION
+: 
+"تکمیل فیلد شناسه الزامی است"
+CHEQUE_RECIEVER_OPERATION
+: 
+"استعلام وضعیت پروفایل مشتری در چکاد"
+CHEQUE_REJECTION_REASON_OBLIGATION
+: 
+"تکمیل فیلد دلیل رد چک الزامی است"
+CHEQUE_SAYAD
+: 
+"چک صیادی"
+CHEQUE_SAYADNUMBER_OBLIGATION
+: 
+"تکمیل فیلد شناسه صیادی الزامی است"
+CHEQUE_SERVICES
+: 
+" خدمات چک "
+CLICK_CHARGE_CODE_TO_CALL
+: 
+"باکلیک  روی کد دستوری زیر را شماره گیری نمایید"
+CODE
+: 
+"کد"
+COME_BACK
+: 
+"بازگشت"
+COMMANDS
+: 
+"دستورها"
+COMMENT_SEND
+: 
+"ارسال نظر"
+COMMENT_SUBMIT
+: 
+"نظر شما با موفقیت ثبت شد"
+COMPLETE_CART_INFORMATION
+: 
+"تکمیل اطلاعات کارت "
+CONFIRMATION_CHEQUE
+: 
+"تایید چک"
+CONFIRMATION_REJECT_CHEQUE
+: 
+"تایید چک/ رد چک"
+CONFIRM_CHARITY_TRANSFER
+: 
+"تایید کمک به نیکوکاری"
+CONFIRM_CHEQUE_SUCCESSFUL
+: 
+"انتقال چک با موفقیت ثبت شد"
+CONFIRM_DELETE_BILL
+: 
+"آیا مایل به حذف قبض"
+CONFIRM_DELETE_BILL_VERB
+: 
+"هستید؟"
+CONFIRM_INTERNET_PACK
+: 
+"تایید خرید بسته اینترنت"
+CONFIRM_MOBILE_NUMBER
+: 
+"تایید شماره همراه"
+CONFIRM_MOBILE_NUMBER2
+: 
+"تایید شماره موبایل"
+CONFIRM_MOBILE_NUMBER_MSG
+: 
+"لطفا رمز پیامک شده را برای تایید شماره همراه خود وارد نمایید و رمز فعالسازی را دریافت نمایید."
+CONFIRM_ORGAN_TRANSFER
+: 
+"تایید پرداخت سازمانی"
+CONFIRM_PASS_MISMATCH
+: 
+"عدم تطابق رمز"
+CONFIRM_PAY_BILL
+: 
+"تایید پرداخت قبض"
+CONFIRM_PUR_CHARGE
+: 
+"تایید خرید شارژ"
+CONFIRM_REJECT_CHEQUE
+: 
+"تایید دریافت / لغو دریافت چک"
+CONFIRM_REQUEST
+: 
+"ثبت درخواست"
+CONFIRM_TRANSFER
+: 
+"تایید انتقال وجه"
+CONTACTS
+: 
+"مخاطبین"
+CONTACTS_NOT_SUPPORTED
+: 
+"این قسمت در مرورگر شما پشتیبانی نمیشود"
+CONTINUE
+: 
+"ادامه"
+CONTRADICTION_INFORMATION_ITEMS
+: 
+"مغایرت اقلام اطلاعاتی فیزیک با مندرجات در سامانه"
+CONVERSIONS
+: 
+"تبدیل ها"
+CONVERT
+: 
+"تبدیل"
+CONVERTS
+: 
+"تبدیل ها"
+COPY_RIGHTS
+: 
+"تمامی حقوق این برنامه متعلق به بانک تجارت است."
+COPY_SERIAL
+: 
+"سریال در حافظه موقت ذخیره شد"
+COPY_TO_CILPBOARD
+: 
+"کپی در حافظه"
+CORRECT_CVV2_CODE
+: 
+"رقم cvv2 را صحیح نمایید"
+COUNTER_ACTIVITY
+: 
+""
+CREATE_NEW_BILL
+: 
+"افزودن قبض جدید به لیست قبض ها"
+CREDIT_PACKAGE_AGAIN
+: 
+"تمدید"
+CREDIT_PACKAGE_BUY
+: 
+"خرید بسته"
+CREDIT_PACKAGE_CONFIRM_FIRST
+: 
+"از این پس پیامک های لحظه ای خود را از طریق شماره همراه "
+CREDIT_PACKAGE_CONFIRM_SECOND
+: 
+"دریافت مینمایید"
+CREDIT_PACKAGE_GET_OTP
+: 
+"دریافت رمز پویا"
+CREDIT_PACKAGE_PHONE_NUMBER
+: 
+"شماره تلفن همراه معتبر نیست"
+CREDIT_PACKAGE_PHONE_OBLIGATION
+: 
+" شماره تلفن همراه الزامی است"
+CREDIT_PACKAGE_REMAIN
+: 
+"اعتبار باقی مانده"
+CRESIT_PACKAGE_LANG_OBLIGATION
+: 
+"فیلد زبان الزامی است"
+CRESIT_PACKAGE_LIMITTYPE_OBLIGATION
+: 
+"فیلد سطح تراکنش الزامی است"
+CRESIT_PACKAGE_REQUEST_OBLIGATION
+: 
+"فیلد درخواست الزامی است"
+CUNSUMPTION_DEBT_AMOUNT
+: 
+"مقدار بدهی مصرف"
+CURRENT_CAONTER_DIGIT
+: 
+"رقم شمارشگر فعلی"
+CURRENT_PASSWORD
+: 
+"رمز فعلی"
+CURRENT_READING_DATE
+: 
+"تاریخ قرائت فعلی"
+CUSTOMER_BILL
+: 
+"مشترک"
+CUSTOMER_BILL_TYPE
+: 
+"نوع مشترک"
+CUSTOMER_CLUB
+: 
+"باشگاه مشتریان"
+CVV2
+: 
+"CVV2"
+DATE_AND_TIME
+: 
+"تاریخ و زمان"
+DATE_TIME
+: 
+"تاریخ و زمان"
+DEACTIVEE
+: 
+"غیرفعالسازی"
+DEACTIVE_ACTIVE_INSTANT_MESSAGE_EXP
+: 
+"غیر فعال"
+DEACTIVE_DYNAMIC_PASS
+: 
+"حذف رمز پویا"
+DEDUCTION_AMOUNT_1000
+: 
+"کسر مبلغ هزار ریال"
+DEFAULT_AMOUNT
+: 
+"مبلغ پیش فرض"
+DEFAULT_TRANSFER_MOBILE
+: 
+"پیش فرض انتقال موبایلی"
+DELETE
+: 
+"حذف"
+DELETE_CARD_CONFIRM_MSG
+: 
+"آیا مایل به حذف کارت مورد نظر هستید"
+DELETE_DYNAMIC_PASS
+: 
+"حذف رمز پویا"
+DELETE_REPORT_MSG
+: 
+"آیا از حذف سابقه تراکنش اطمینان دارید؟"
+DEPOSIT
+: 
+"واریز"
+DEPOSIT_ID
+: 
+"شناسه واریز"
+DESCRIPTION
+: 
+"توضیحات"
+DESTINATION
+: 
+"مقصد"
+DESTINATION_PHONE_NUMBER
+: 
+"شماره همراه مخاطب"
+DEST_ACCOUNT
+: 
+"حساب مقصد"
+DEST_ACCOUNTS
+: 
+"حساب های مقصد"
+DEST_ACCOUNTS_MANAGEMENT
+: 
+"مدیریت مقصدها"
+DEST_ACCOUNT_NUMBER
+: 
+"شماره حساب مقصد"
+DEST_CARD
+: 
+"کارت مقصد"
+DEST_CARDS
+: 
+"کارت های مقصد"
+DEST_CARD_NUMBER
+: 
+"شماره کارت مقصد"
+DEST_IBAN
+: 
+"شبا مقصد"
+DEST_MOBILE_NUMBER
+: 
+"شماره موبایل مقصد"
+DEST_SHEBA_NUMBER
+: 
+"شماره شبا مقصد"
+DETAILS
+: 
+"جزئیات"
+DIGITAL_SIGNATURE
+: 
+"امضای دیجیتال"
+DIRECT
+: 
+"مستقیم"
+DIRECT_CHARGE
+: 
+"شارژ مستقیم"
+DISABLE_DYNAMIC_PASS
+: 
+"غیرفعالسازی رمز پویا"
+DISAPPROVE
+: 
+"عدم تایید"
+DISPENSING
+: 
+"انصراف"
+DOCUMENT_DESC
+: 
+"شرح سند"
+DOCUMENT_NUMBER
+: 
+"شماره سند"
+DOING
+: 
+"در حال انجام"
+DONT_SHOW_ACCOUNT
+: 
+"عدم نمایش"
+DYNAMIC_PASS
+: 
+"رمز پویا"
+DYNAMIC_PASSWORD
+: 
+"رمز دوم یا پویا"
+DYNAMIC_PASS_SERVICES
+: 
+"خدمات رمز پویا"
+EDIT_ACCOUNT_TITLE
+: 
+"ویرایش"
+EDIT_CARD
+: 
+"ویرایش"
+ELC_AMPER
+: 
+"آمپراژ"
+ELC_COMPANY_NAME
+: 
+"نام شرکت توزیع"
+ELC_IDENTIFIER_NUMBER
+: 
+"شماره بدنه کنتور"
+ELC_VOLTAGE
+: 
+"نوع ولتاژ"
+ELECTRICITY
+: 
+"برق"
+ELECTRICITY_TITLE
+: 
+"برق"
+ELECTRICY_CONSUME_AMOUNT
+: 
+"بهای برق مصرفی"
+ELECTRONIC_CHEQUE
+: 
+"چک دیجیتال"
+EMAIL
+: 
+"ایمیل"
+ENTER_AMOUNT
+: 
+"لطفا مبلغ را وارد نمایید"
+ENTER_CARD_TITLE
+: 
+"عنوان کارت را وارد نمایید"
+ENTER_COMPLETE_CONVERSION_INFORMATION
+: 
+"اطلاعات تبدیل را کامل وارد نمایید"
+ENTER_CURRENT_PASS
+: 
+"رمز فعلی رو کامل وارد کنید"
+ENTER_CVV2_CODE
+: 
+"رمز CVV2 را صحبح وارد نمایید."
+ENTER_DEST_ACCOUNT_NUMBER_NOTI
+: 
+"لطفا شماره حساب مقصد را وارد نمایید"
+ENTER_DEST_CARD_NUMBER_NOTI
+: 
+"لطفا شماره کارت مقصد را وارد نمایید"
+ENTER_DEST_IBAN_NUMBER_NOTI
+: 
+"لطفا شماره شبا مقصد را وارد نمایید"
+ENTER_DYNAMIC_PASSWORD
+: 
+"لطفا رمز دوم کارت خود را وارد نمایید"
+ENTER_END_DATE
+: 
+"تاریخ پایان را وارد کنید "
+ENTER_EXPIRE_DATE
+: 
+"لطفا تاریخ انقضا را صحیح وارد نمایید"
+ENTER_INFO_AND_SOURCE_TYPE
+: 
+"اطلاعات و نوع شماره مبدا را وارد نمایید"
+ENTER_INTERNET_PACKAGE
+: 
+"بسته موردنظر را انتخاب کنید"
+ENTER_MOBILE_BANK_PASSWORD
+: 
+"لطفا رمز همراه بانک خود را وارد نمایید."
+ENTER_PASSWORD_TO_BLOCK_ACCOUNT
+: 
+"لطفا رمز همراه بانک خود را برای مسدودسازی حساب وارد نمایید."
+ENTER_PASS_CORRECTLY
+: 
+" لطفا رمز خود را صحیح وارد نمایید"
+ENTER_PHONENUMBER
+: 
+"شماره تلفن همراه نامعتبر است"
+ENTER_PRICE
+: 
+"لطفا مبلغ را وارد کنید"
+ENTER_START_DATE
+: 
+"تاریخ شروع را وارد کنید "
+ENTER_TOPUP_MOBILE
+: 
+"لطفا شماره همراه را وارد کنید"
+ENTER_TOPUP_OPERATOR
+: 
+"لطفا اپراتور مورد نظر را انتخاب کنید"
+ENTER_TOPUP_PACKAGE
+: 
+"بسته مورد نظر رو انتخاب کنید"
+ENTER_VALID_CARD_NUMBER
+: 
+"شماره کارت معتبر وارد نمایید"
+ENTER_VALID_DATE
+: 
+"تاریخ انقضا معتبر وارد نمایید"
+ERROR
+: 
+"خطا"
+EXIT
+: 
+"خروج"
+EXPIRED
+: 
+"منقضی شده"
+EXPIRE_DATE
+: 
+"تاریخ انقضا"
+EXPIRE_DATE_ASSIGNMENT
+: 
+"زمان انقضا حواله"
+FAIL
+: 
+"ناموفق"
+FAILURE_RECIEVE_CHEQUE
+: 
+"عدم دریافت فیزیک چک"
+FAILURE_TRANSACTION
+: 
+"عدم انجام معامله"
+FAIL_TO_GET_DATA
+: 
+"گرفتن اطلاعات با مشکل مواجه شد"
+FARSI
+: 
+"فارسی"
+FEATURE1
+: 
+"- اضافه شدن قابلیت اسکن کد QR روی برگه چک به منظور درج خودکار اطلاعات در فیلدهای مربوطه"
+FEATURE2
+: 
+"- امکان ثبت مشخصات اشخاص حقوقی در قسمت ذینفع(گیرنده) چک"
+FEATURE3
+: 
+"- امکان اشتراک گذاری رسید عملیات چک های صیادی"
+FEATURE4
+: 
+"- بهبود سایر خدمات چک صیادی"
+FEATURE5
+: 
+"- بهینه سازی برخی موارد رابط کاربری"
+FILE_NUMBER
+: 
+"شماره پرونده"
+FILL_AMOUNT_OBLIGATORY
+: 
+"تکمیل فیلد مبلغ چک الزامی است"
+FILL_BENEFICIARIES_OBLIGATORY
+: 
+"افزودن گیرنده الزامی است"
+FILL_REASONCODE_OBLIGATORY
+: 
+"تکمیل فیلد بابت الزامی است"
+FILL_REASON_OBLIGATORY
+: 
+"تکمیل فیلد شرح بابت الزامی است"
+FILTER
+: 
+"فیلتر"
+FINGLISH
+: 
+"فینگلیش"
+FOREIN_CODE
+: 
+"شماره فراگیر اتباع"
+FORGOT_PASS
+: 
+"ثبت نام / فراموشی رمز"
+FREEWAY_DATE
+: 
+"تاریخ تردد"
+FREEWAY_TOLL_CONTROLLER
+: 
+"سرویس عوارض بزرگراهی"
+FREEWAY_TOLL_CONTROLLER_LIST
+: 
+"لیست تردد بزرگراهی"
+FREEWAY_TOLL_NULL
+: 
+"ترددی برای خودرو مورد نظر یافت نشد."
+FROM_DATE
+: 
+"از تاریخ"
+FROM_DATE_MORE_THAN_TO_DATE
+: 
+"بازه تاریخ وارد شده معتبر نمی باشد"
+FUND_TRANSFER_ACH
+: 
+"انتقال وجه بین بانکی"
+FeeType
+: 
+"بسته اعتباری"
+GAS
+: 
+"گاز"
+GAS_TITLE
+: 
+"گاز"
+GET_BALANCE
+: 
+"دریافت موجودی"
+GET_DYNAMIC_PASS_CONFIRM1
+: 
+"از این پس رمزهای پویای خود را از طریق شماره همراه"
+GET_DYNAMIC_PASS_CONFIRM2
+: 
+"دریافت می نمایید"
+GET_DYNAMIC_PASS_CONFIRM3
+: 
+"آیا مورد تایید است؟"
+GET_USER_LOCATION_FAILD
+: 
+"کاربر گرامی دریافت موقعیت مکانی شما با خطا مواجه شد"
+GROUP
+: 
+"گروه"
+GROUPI
+: 
+"گروهی"
+GROUPS_LIST
+: 
+"لیست گروه ها"
+GROUPS_MANAGMENT
+: 
+"مدیریت گروه ها"
+GROUP_INFORMATION
+: 
+"اطلاعات گروه"
+GROUP_MEMBER_FAMILY
+: 
+"نام خانوادگی"
+GROUP_MEMBER_INFORMATION
+: 
+"اطلاعات عضو گروه"
+GROUP_MEMBER_NAME
+: 
+"نام"
+GROUP_NAME
+: 
+"نام گروه"
+GUARANTOR
+: 
+"ضامن"
+HAMRAH_AVAL
+: 
+"همراه اول"
+HAMRAZ
+: 
+"همراز"
+HAMRAZ_MENU
+: 
+"همراز (رمز پویا تجارت)"
+HARIM
+: 
+"پیامکی"
+HARIM_ACTIVATE
+: 
+"فعالسازی هریم"
+HARIM_MENU
+: 
+"هریم (رمز پویا پیامکی)"
+HELP
+: 
+"راهنما"
+HELP_ACCOUNT_CHARITY
+: 
+"جهت انجام عملیات نیکوکاری کافی است در قسمت انتخاب موسسه، موسسه مورد نظر خود را برای نیکوکاری انتخاب کنید و مبلغ دلخواه خود را وارد نموده و گزینه ثبت را برگزینید. در مرحله بعد با وارد نمودن رمز همراه بانک عملیات نیکوکاری با موفقیت انجام خواهد شد."
+HELP_ACCOUNT_MAINPAGE
+: 
+"در این بخش حسابهای تعریف شده خود را مشاهده می فرمایید. شما با انتخاب هر حساب قادر خواهید بوداز خدمات موجود که شامل موجودی، انتقال وجه، شارژ سیم کارت، پرداخت قبوض، گردش حساب، بسته اینترنت، نیکوکاری و پرداخت سازمانی استه بهره مند گردید. "
+HELP_ACCOUNT_PAYMENT
+: 
+"از طریق این امکان قادر خواهید بود پرداخت های سازمانی دارای شناسه واریز خود را پرداخت نمایید. بدین منظور با برگزیدن گزینه انتخاب سازمان مربوطه را انتخاب کنید و شناسه واریز و مبلغ مربوطه را وارد نمایید، با انتخاب گزینه ارسال وارد مرحله بعد شده و پس از وارد نمودن رمز همزاه بانک خود با برگزیدن دکمه ارسال، پرداخت شما صورت خواهد گرفت."
+HELP_ACCOUNT_TRANSLATE
+: 
+""
+HELP_TO
+: 
+"کمک به"
+HIDE_ACCOUNT_CONFIRM_MSG
+: 
+"آیا از عدم نمایش حساب انتخاب شده اطمینان دارید؟"
+HIDE_CARD_CONFIRM_MSG
+: 
+"آیا از عدم نمایش کارت انتخاب شده اطمینان دارید؟"
+HIDE_DETAILS
+: 
+"عدم نمایش جزئیات"
+IBAM_OWNER_NAME
+: 
+"نام صاحب شبا"
+IBAN
+: 
+" شبا"
+IBAN_INFO_SAVED
+: 
+"اطلاعات شماره شبا ذخیره شد"
+IM_ACTIVATION_EXP
+: 
+"فعال سازی پیامک برداشت و واریز (توجه: این سرویس شامل کارمزد به مبلغ 100,000 ربال است)"
+INACTIVE
+: 
+"غیرفعال"
+INACTIVE_DYNAMIC_PASS
+: 
+"غیرفعالسازی رمز پویا"
+INACTIVE_INSTANT_MESSAGE_EXP
+: 
+"غیرفعال: هیچ پیامک واریز و برداشتی رو حساب ارسال نمی گردد."
+INCORRECT_REPEATED_PASSWORD
+: 
+"رمز تکرار شده صحیح نیست"
+INDIVIDUAL
+: 
+"فردی"
+INFORMATION_SUBMIT
+: 
+"اطلاعات با موفقیت ثبت شد"
+INFORMATION_SUBMIT_ERROR
+: 
+"ثبت اطلاعات با مشکل روبروست"
+INQUERY
+: 
+"استعلام"
+INQUIRE
+: 
+"استعلام"
+INQUIRE_DYNAMIC_PASS
+: 
+"استعلام وضعیت رمز پویا"
+INQUIRY
+: 
+"استعلام"
+INQUIRY_STATUS
+: 
+"وضعیت استعلام"
+INSTALLMENT_MANAGEMENT
+: 
+"مدیریت اقساط"
+INSTANT_MESSAGE
+: 
+"پیامک لحظه ای"
+INSTANT_MESSAGE_STATUS
+: 
+"وضعیت های سرویس پیامک لحظه ای"
+INSTANT_MESSAGING
+: 
+"پیامک لحظه ای"
+INSTANT_MESSAGING_ACTIVE
+: 
+" فعال : خرید بسته اعتباری و دریافت تمام پیامک های واریز و برداشت"
+INSTANT_MESSAGING_ADD_NEW_SIM
+: 
+"افزودن سیم کارت جدید"
+INSTANT_MESSAGING_ADD_SIM
+: 
+"افزودن سیمکارت"
+INSTANT_MESSAGING_DEACTIVE
+: 
+"غیرفعال: هیچ پیامک واریز و برداشتی روی حساب ارسال نمیگردد"
+INSTANT_MESSAGING_NOTE
+: 
+"برای هر حساب تنها امکان افزودن دو سیم کارت وجود دارد"
+INSTANT_MESSAGING_STATUS
+: 
+"وضعیت سرویس پیامک لحظه ای"
+INSTITUTE
+: 
+"موسسه"
+INSURANCE
+: 
+"بیمه"
+INTERNET_MOBILE
+: 
+"همراه"
+INTERNET_NULL
+: 
+"خرید اینترنت انجام نشده است"
+INTERNET_PACKAGE
+: 
+"بسته اینترنت"
+INTERNET_PACKAGES
+: 
+"بسته های اینترنت"
+INTERNET_PACK_TYPE
+: 
+"نوع بسته"
+INTERNET_TAX_AMOUNT
+: 
+"مبلغ بسته به همراه مالیات"
+INTERNET_TD_LTE
+: 
+"TD-LTE"
+INVITE_FRIENDS
+: 
+"معرفی به دوستان"
+IN_PROGRESS
+: 
+"در حال انجام"
+IRAN_CELL
+: 
+"ایرانسل"
+IRR
+: 
+"ریال"
+Internal Server Error
+: 
+"خطا در دسترسی به برنامه، مجددا تلاش کنید"
+LATER
+: 
+"بعدا"
+LATEST_VERSION_CHANGES
+: 
+"تغییرات آخرین نسخه"
+LEGAL_PERSON
+: 
+"حقوقی"
+LESS_DETAILS
+: 
+"جزئیات کمتر"
+LINKS
+: 
+"پیوند ها"
+LINK_MOBILE_BANK
+: 
+"*لینک دریافت همراه بانک*"
+LIST_OF_REQUESTS
+: 
+"لیست درخواست ها"
+LOGIN
+: 
+"ورود"
+LOG_NUMBER
+: 
+"حساب"
+LOG_NUMBER_LABLE
+: 
+"تعداد صورت حساب"
+Language
+: 
+"انتخاب زبان"
+LimitType
+: 
+"سطح تراکنش"
+MAGIC_CARD_FESTIVAL
+: 
+"جشنواره کارت جادویی"
+MANAGER
+: 
+"مدیریت کارت و حساب"
+MEMBERSHIP_CUSTOMER_CLUB
+: 
+"عضویت در باشگاه مشتریان"
+MESSAGE_BOX
+: 
+"صندوق پیام"
+MESSAGE_BOX_INQUERY
+: 
+"استعلام وضعیت صندوق"
+MESSAGE_PASS
+: 
+"رمز پیامکی"
+MESSAGE_TEXT
+: 
+"متن پیام"
+METER_SERIAL
+: 
+"سریال کنتور"
+MISMATCH_DATA
+: 
+"مغایرت اقلام اطلاعاتی چک با توافق صورت گرفته"
+MOBILE
+: 
+"موبایل"
+MOBILE_BANK_CHANGE_PASSWORD
+: 
+"تغییر رمز همراه بانک"
+MOBILE_BANK_PASS
+: 
+"رمز همراه بانک"
+MOBILE_BANK_TEJERAT
+: 
+"همراه بانک تجارت"
+MOBILE_NOW
+: 
+"تلفن همراه - میاندوره"
+MOBILE_NOW_TITLE
+: 
+"تلفن همراه - میاندوره"
+MOBILE_NUMBER
+: 
+"شماره موبایل"
+MOBILE_OPERATOR
+: 
+"اپراتور"
+MOBILE_TITLE
+: 
+"تلفن همراه - پایان دوره"
+MONEY_TRANSFER
+: 
+"انتقال وجه"
+MONEY_TRANSFER_MOBILE
+: 
+"انتقال به موبایل"
+MONTH
+: 
+"ماه"
+MORE_DETAILS
+: 
+"جزئیات بیشتر"
+MORE_INFORMATION
+: 
+"اطلاعات بیشتر"
+MYSELFE
+: 
+"خودم"
+MYSELF_ACCOUNTS
+: 
+"حساب های خودم"
+MYSELF_CARDS
+: 
+"کارت های خودم"
+MY_REQUESTS
+: 
+"درخواست های من"
+NAME_FAMILY
+: 
+"نام و نام خانوادگی"
+NATIONAL_CODE
+: 
+"شناسه ملی"
+NEW_PASSWORD
+: 
+"رمز جدید"
+NEW_PASS_LENGTH_ERROR
+: 
+"رمز انتخابی باید 6 تا 12 رقم باشد"
+NEW_VERSION
+: 
+"1.3.7"
+NEW_VERSION_CHANGES
+: 
+"تغییرات نسخه"
+NEXT_STAGE
+: 
+"مرحله بعد"
+NEXT_STEP
+: 
+"بعدی"
+NO
+: 
+"خیر"
+NOTIFY_ACCEPT_CHEQUE
+: 
+"برگه چک با موفقیت تایید گردید"
+NOTIFY_REJECT_CHEQUE
+: 
+"برگه چک با موفقیت رد گردید"
+NO_CHARGE_AVAILABLE_FOR_SELECTED_OPERATOR
+: 
+"برای اپراتور انتخابی شارژی موجود نیست"
+NULL
+: 
+"لغو"
+NUMBER
+: 
+"شماره "
+NUMBER_OF_CHECKBOOKS
+: 
+"تعداد کل دسته چکها"
+NUMBER_OF_CHECKBOOK_SHEETS
+: 
+"تعداد برگه دسته چک"
+NUMBER_SAYAD
+: 
+"شماره صیادی"
+OK
+: 
+"تایید"
+OPERATIONS
+: 
+"عملیات"
+OPERATOR_TRACENUMBER
+: 
+"کد پیگری اپراتور"
+ORGAN
+: 
+"سازمان"
+ORGANS
+: 
+"سازمانها"
+ORGAN_OWNER_ACCOUNT
+: 
+"سازمان دارنده حساب"
+ORGAN_PAYMENT
+: 
+"پرداخت سازمانی"
+OTHER
+: 
+"دیگری"
+OTHERS_ACCOUNTS
+: 
+"حساب های دیگران"
+OTHER_SERVICE_DEBT_AMOUNT
+: 
+"بدهی سایر خدمات/خسارت"
+OTHETR_DEBT
+: 
+"بدیهی متفرقه"
+PACKAGE
+: 
+"بسته"
+PAHSE_COUNT
+: 
+"تعداد فاز"
+PALTE_NAME
+: 
+"نام خودرو"
+PAPER_CHEQUE
+: 
+"چک کاغذی"
+PASSWORD
+: 
+"رمز ورود"
+PASSWORD_CHANGED_SUCCESSFULLY
+: 
+"تغییر رمز با موفقیت انجام شد."
+PASSWORD_IS_EMPTY
+: 
+"رمز عبور خود را وارد کنید"
+PAYA
+: 
+"پایا"
+PAYA_SATNA
+: 
+"پایا/ساتنا"
+PAYA_TRANSFER_MESSAGE
+: 
+"شما در حال انتقال وجه پایا هستید.( انتقال در مقاطع زمانی مشخصی انجام می گردد)"
+PAYMENT
+: 
+"پرداخت"
+PAYMENT_FROM
+: 
+"پرداخت از"
+PAYMENT_IDENTIFIRE
+: 
+"شناسه پرداخت"
+PAY_BILLS
+: 
+"پرداخت قبوض"
+PAY_BILL_ACCOUNT
+: 
+"پرداخت قبض( حساب )"
+PAY_BILL_CARD
+: 
+"پرداخت قبض (کارت)"
+PAY_REASON_CODE
+: 
+"بابت"
+PAY_REASON_DESCRIB
+: 
+"شرح بابت"
+PAY_RECEIPT
+: 
+"شماره شناسه پرداخت"
+PERSON_KIND
+: 
+"نوع شخص"
+PHONENUMBER_CHEQUE_CONFIRM
+: 
+"شماره همراه خود را برای تایید دریافت و مندرجات چک انتخاب کنید"
+PHONE_NUMBER
+: 
+"شماره همراه"
+PIN_CAHRGE
+: 
+"رمز شارژ"
+PLATE
+: 
+"پلاک خودرو"
+PLATE_INFO
+: 
+"خدمات خودرو"
+PLATE_INFO_LIST
+: 
+"لیست خودروهای من"
+POSTAL_CODE
+: 
+"کد پستی"
+POSTPAID_SIM
+: 
+"سیم کارت دایمی"
+PREPAID_SIM
+: 
+"سیم کارت اعتباری"
+PREVIOUS_COUNTER_DIGIT
+: 
+"رقم شمارشگر پیشین"
+PREVIOUS_READING_DATE
+: 
+"تاریخ قرائت پیشین"
+PREV_STEP
+: 
+"قبلی"
+PUR_CHARGE
+: 
+"خرید شارژ"
+PUR_INTERNET_PACK
+: 
+"خرید بسته اینترنت"
+PWA_VERSION
+: 
+"1.3.7"
+REAL_AMOUNT
+: 
+"مبلغ برداشت شده"
+REAL_NATIONAL_CODE
+: 
+"کد ملی"
+REAL_PERSON
+: 
+"حقیقی"
+REAQUARE_REASONS
+: 
+"لطفا بابت را انتخاب کنید"
+REASON_REJECT_CHEQUE
+: 
+"دلیل رد چک"
+RECIEVED_CHEQUE_CONFIRM
+: 
+"تایید دریافت و مندرجات چک"
+REFRENCE_NUMBER
+: 
+"شماره مرجع"
+REGISTERED
+: 
+"ثبت شده"
+REGISTER_NEW_PLATE
+: 
+"پلاک خودرو جدید را ثبت کنید"
+REGISTRATION_GUARANTOR_INFORMATION
+: 
+"اطلاعات ضامن با موفقیت ثبت شد.جهت ثبت امضای دیجیتال از طریق اپلیکیشن هامون اقدام نمائید."
+REJECTED
+: 
+"رد شده"
+REJECT_CHEQUE
+: 
+"رد چک"
+REJECT_CHEQUE_REASON
+: 
+"انتخاب دلیل رد چک"
+REJECT_CHEQUE_REASON_OBLIGATION
+: 
+"لطفا دلیل رد چک را انتخاب کنید"
+REJECT_MONEY_REQUEST
+: 
+"رد درخواست"
+REMAINING_AMOUNT_1000
+: 
+"مانده مبلغ هزار ریال"
+REMAINING_DEBT
+: 
+"مانده بدهی/ بستانکاری"
+REMAINING_PREVIOUS_INVOICE
+: 
+"مانده صورتحساب قبلی"
+REPEAT_NEW_PASSWORD
+: 
+"تکرار رمز جدید"
+REQUEST
+: 
+"درخواست"
+REQUESTERS_DETAILS
+: 
+"جزییات درخواست شونده ها"
+REQUESTERS_LIST
+: 
+"لیست درخواست شونده ها"
+REQUEST_AMMOUNT
+: 
+"مبلغ درخواستی"
+REQUEST_CONFIRM_DELETE
+: 
+"آیا از حذف درخواست خود اطمینان دارید؟"
+REQUEST_CONFIRM_REJECT
+: 
+"آیا از رد درخواست خود اطمینان دارید؟"
+REQUEST_DATE
+: 
+"تاریخ درخواست"
+REQUEST_DELETE
+: 
+"حذف درخواست"
+REQUEST_DESCRIPTION
+: 
+"توضیحات درخواست"
+REQUEST_DETAILS
+: 
+"جزئیات درخواست"
+REQUEST_FROM_ME
+: 
+"درخواست ها از من"
+REQUEST_GIVES
+: 
+"گیرندگان درخواست"
+REQUEST_MONEY
+: 
+"درخواست وجه"
+REQUEST_MONEY_ADDED
+: 
+"درخواست شما باموفقیت ثبت شد"
+REQUEST_MONEY_ADD_NEW_PERSON
+: 
+"افزودن فرد جدید"
+REQUEST_MONEY_MOBILE_NUMBER
+: 
+"تلفن همراه"
+REQUEST_MONEY_TIME
+: 
+"مدت زمان اعتبار"
+REQUEST_OF
+: 
+"درخواست از "
+REQUEST_REJECT
+: 
+"رد درخواست"
+REQUEST_TOTAL_AMOUNT
+: 
+"مبلغ پرداخت شده / مبلغ کل"
+REQUEST_TOTAL_COUNT
+: 
+"تعداد پرداخت شده / تعداد کل"
+REQUEST_TYPE
+: 
+"نوع درخواست"
+REQ_AMOUNT
+: 
+"مبلغ مجاز"
+REQ_DATE_TIME
+: 
+"تاریخ ثبت"
+REQ_STATUS
+: 
+"وضعیت درخواست"
+RESTCALL_TIMEOUT_MSG
+: 
+"خطا در دسترسی به برنامه، مجددا تلاش کنید"
+REVOKE
+: 
+"منقضی شده"
+RIAL
+: 
+"ریال"
+RIGH_TELL
+: 
+"رایتل"
+SATNA
+: 
+"ساتنا"
+SATNA_TRANSFER_MESSAGE
+: 
+"شما در حال انتقال وجه ساتنا هستید. ( انتقال با اندکی تاخیر در ساعات اداری)"
+SAVE
+: 
+"ذخیره"
+SAVE_ACCOUNT
+: 
+"ثبت"
+SAVE_CARD
+: 
+"ثبت"
+SAVE_CHANGE_PASSWORD
+: 
+"ثبت"
+SAVE_LIST
+: 
+"لیست ذخیره ها"
+SAVE_SAYAD_CHEQUE
+: 
+"ثبت چک"
+SAVE_SAYAD_CHEQUE_SUCCESSFULY
+: 
+"چک صیادی با موفقیت ثبت شد."
+SAYAD_ACCOUNT_NUMBER
+: 
+"شماره حساب"
+SAYAD_ASSIGNMENT
+: 
+"واگذاری"
+SAYAD_BENEFICIARY_ACCOUNT
+: 
+"حساب ذینفع"
+SAYAD_BRANCH_CODE
+: 
+"شعبه واگذارنده(کد)"
+SAYAD_CHECKBOOK_ACCOUNT_ERROR
+: 
+"گزینه مناسب برای شماره حساب انتخاب کنید"
+SAYAD_CHECKBOOK_BRANCH_METHOD
+: 
+"دریافت از شعبه"
+SAYAD_CHECKBOOK_BRANCH_NAME
+: 
+"نام شعبه"
+SAYAD_CHECKBOOK_DELIVER
+: 
+"تحویل گیرنده"
+SAYAD_CHECKBOOK_DELIVER_ERROR
+: 
+"گزینه مناسب برای فرد تحویل گیرنده انتخاب کنید"
+SAYAD_CHECKBOOK_DELIVER_IDENTIFIER
+: 
+"کد ملی تحویل گیرنده"
+SAYAD_CHECKBOOK_DELIVER_NAME
+: 
+"مشخصات تحویل گیرنده"
+SAYAD_CHECKBOOK_DELIVER_TYPE
+: 
+"نحوه تحویل"
+SAYAD_CHECKBOOK_HOME_METHOD
+: 
+"دریافت از درب منزل"
+SAYAD_CHECKBOOK_IDENTIFIER_ERROR
+: 
+"تکمیل فیلد کد ملی الزامی است"
+SAYAD_CHECKBOOK_IDENTIFIER_LENGTH_ERROR
+: 
+"کد ملی اشتباه است"
+SAYAD_CHECKBOOK_IDENTIFIER_NAME_ERROR
+: 
+"تکمیل فیلد نام و نام خانوادگی الزامی است"
+SAYAD_CHECKBOOK_INQUIRY
+: 
+"استعلام برگه های دسته چک"
+SAYAD_CHECKBOOK_METHOD_ERROR
+: 
+"گزینه مناسب برای نحوه تحویل انتخاب کنید"
+SAYAD_CHECKBOOK_OPERATION_DATE
+: 
+"تاریخ انتها نباید بزرگتر از تاریخ ابتدا باشد"
+SAYAD_CHECKBOOK_RECEIVER_IDENTIFIER
+: 
+"کد ملی تحویل گیرنده"
+SAYAD_CHECKBOOK_RECEIVER_NAME
+: 
+"نام و نام خانوادگی تحویل گیرنده"
+SAYAD_CHECKBOOK_RECEIVER_SELECT
+: 
+"انتخاب فرد تحویل گیرنده دسته چک"
+SAYAD_CHECKBOOK_REGISTER
+: 
+"صدور دسته چک"
+SAYAD_CHECKBOOK_REQUEST
+: 
+"درخواست غیرحضوری دسته چک"
+SAYAD_CHECKBOOK_REQUEST_MSG
+: 
+"برای تایید نهایی صدور دسته چک، باید درخواست شما به شعبه ارسال گردد. از طریق دکمه ارسال درخواست می توانید در این مرحله درخواست خود را به شعبه مربوطه ارسال نمایید."
+SAYAD_CHECKBOOK_SELECT_SEND_METHOD
+: 
+"انتخاب نحوه دریافت دسته چک"
+SAYAD_CHECKBOOK_SEND_METHOD
+: 
+"نحوه ارسال"
+SAYAD_CHECKBOOK_Type_ERROR
+: 
+"گزینه مناسب برای تعداد برگ دسته چک را انتخاب کنید"
+SAYAD_CHECKBOOK_WARNING
+: 
+"توجه :این سرویس شامل کارمزد می باشد."
+SAYAD_CHECK_INQUIRY
+: 
+"استعلام چک دریافتی"
+SAYAD_CHECK_REGISTER
+: 
+"ثبت صدور چک"
+SAYAD_CHEQUE_CONFIRMED
+: 
+"چک با موفقیت تایید شد"
+SAYAD_CHEQUE_GIVEBACK
+: 
+"چک با موفقیت عودت شد"
+SAYAD_CHEQUE_INQUIRY
+: 
+"استعلام چک صادر شده از سامانه صیاد"
+SAYAD_CHEQUE_REJECT
+: 
+"چک با موفقیت رد شد"
+SAYAD_COMMON_INQUIRY
+: 
+"استعلام عمومی چک"
+SAYAD_CONFIRM_GIVEBACK
+: 
+"آیا از عودت این چک اطمینان دارید؟"
+SAYAD_CONFIRM_MOBILE_NUMBER_MSG
+: 
+"لطفا رمز پیامک شده را برای تایید شماره همراه خود وارد نمایید ."
+SAYAD_CONFIRM_TRANSFER
+: 
+"آیا از انتقال چک به این اشخاص اطمینان دارید؟"
+SAYAD_DATE
+: 
+"تاریخ سر رسید"
+SAYAD_DELETE_CONFIRM
+: 
+"آیا مایل به حذف این چک هستید؟"
+SAYAD_GUARANTEE_BANK
+: 
+"بانک متعهد"
+SAYAD_INFORMATION
+: 
+"اطلاعات چک"
+SAYAD_INQUIRY
+: 
+"استعلام چک صادر شده"
+SAYAD_INQUIRY_INFORMATION
+: 
+"استعلام مشخصات داخلی چک"
+SAYAD_ISSUED_INQUIRY
+: 
+"استعلام چک صادر شده از سامانه صیاد"
+SAYAD_NO_CHOICE
+: 
+"گزینه ای برای انتخاب وجود ندارد"
+SAYAD_NUMBER
+: 
+"شناسه 16 رقمی صیاد"
+SAYAD_NUMBER_COPY
+: 
+"شناسه صیادی در حافظه موقت ذخیره شد."
+SAYAD_OPERATION_HISTORY
+: 
+"سوابق عملیات چک"
+SAYAD_PAY
+: 
+"مبلغ"
+SAYAD_REJECT_CHEQUE
+: 
+"عودت چک"
+SAYAD_REJECT_DESCRIPTION
+: 
+"شرح عودت"
+SAYAD_REJECT_DESCRIPTION_FORCE
+: 
+"تکمیل شرح اجباری است."
+SAYAD_REJECT_REASON_FORCE
+: 
+"تکمیل بابت اجباری است."
+SAYAD_REMINDER
+: 
+"تنظیم یادآور"
+SAYAD_SAYADNUMBER_FORCE
+: 
+"تکمیل شناسه صیاد اجباری است."
+SAYAD_SELECT_PERSON_TYPE
+: 
+"انتخاب نوع شخص"
+SAYAD_SERIALNUMBER
+: 
+"کد رهگیری"
+SAYAD_SERIAL_NUMBER
+: 
+"شماره سریال چک"
+SAYAD_SERINUMBER
+: 
+"شناسه صیادی"
+SAYAD_SERI_NUMBER_ELECTIVE
+: 
+"شماره سری چک"
+SAYAD_TRANSFARRED_DATE
+: 
+"تاریخ"
+SAYAD_TRANSFARRED_STATUS
+: 
+"وضعیت چک واگذار شده به حساب"
+SAYAD_TRANSFER
+: 
+"انتقال"
+SAYAD_TRANSFER_CHEQUE
+: 
+"انتقال چک"
+SAYAD_TRANSFER_QUEU
+: 
+"استعلام زنجیره انتقال چک"
+SAYAD_TRANSFER_QUEU_INFO
+: 
+"اطلاعات استعلام زنجیره انتقال چک"
+SAYAD_TRANSFER_TO_BENEFICIANERY
+: 
+"انتقال به گیرنده جدید"
+SCORE
+: 
+"امتیاز"
+SEARCH
+: 
+"جستجو"
+SECURITY
+: 
+"امنیت"
+SEE_LATER
+: 
+"بعدا میبینم"
+SELECT
+: 
+"انتخاب"
+SELECT_ACCOUNT_NUMBER
+: 
+"انتخاب شماره حساب"
+SELECT_ACTIVE_ERROR
+: 
+"لطفا شماره حساب را انتخاب نمایید"
+SELECT_BANK
+: 
+"انتخاب بانک"
+SELECT_BILL_TYPE
+: 
+"نوع قبض را مشخص کنید"
+SELECT_CHARGE_AMOUNT
+: 
+"مبلغ شارژ"
+SELECT_CHARGE_TYPE
+: 
+"انتخاب نوع شارژ"
+SELECT_CHECKBOOK
+: 
+"انتخاب برگ دسته چک"
+SELECT_CHECKBOOK_NUMBER
+: 
+"انتخاب تعداد برگ دسته چک"
+SELECT_CONVERT_DEST_TYPE
+: 
+"نوع تبدیل مقصد را انتخاب نمایید"
+SELECT_DEST_ACCOUNT
+: 
+"انتخاب حساب مقصد"
+SELECT_DEST_CARD
+: 
+"انتخاب کارت مقصد"
+SELECT_DUEDATE
+: 
+"تاریخ سررسید چک را انتخاب کنید"
+SELECT_GROUP
+: 
+"انتخاب گروه"
+SELECT_NUMBER
+: 
+"انتخاب شماره همراه"
+SELECT_NUMBER_OTP_ACTIVATE
+: 
+"شماره همراه مورد نظر را انتخاب کنید"
+SELECT_OPERATOR
+: 
+"انتخاب اپراتور"
+SELECT_OPTION_10
+: 
+"10"
+SELECT_OPTION_20
+: 
+"20"
+SELECT_OPTION_30
+: 
+"30"
+SELECT_PAY_REASON_DESCRIB
+: 
+"انتخاب شرح بابت"
+SELECT_PLACEHOLDER
+: 
+"انتخاب..."
+SELECT_RECEIPT_BACKGROUND
+: 
+"انتخاب پس زمینه رسید"
+SELECT_SOURCE_ACCOUNT
+: 
+"انتخاب حساب مبدأ"
+SELECT_TOKEN_TYPE
+: 
+"انتخاب نوع توکن"
+SEND
+: 
+"ارسال"
+SENDER
+: 
+"صادرکننده"
+SEND_COMMENT
+: 
+"ارسال نظر"
+SEND_LOG
+: 
+"ارسال صورتحساب"
+SEND_OTP_TO_PICHAK
+: 
+"ارسال به پیچک"
+SEND_OTP_TO_SAYAD
+: 
+"ارسال به سامانه صیاد"
+SEND_PICHAK_OTP_MESSAGE
+: 
+"برای تایید نهایی چک،باید درخواست شما به سامانه پیچک ارسال گردد. از طریق دکمه ارسال درخواست می توانید در این مرحله درخواست خود را به سامانه پیچک ارسال نمایید."
+SEND_RECEIPT
+: 
+"ارسال رسید"
+SEND_REQUEST
+: 
+"ارسال درخواست"
+SERIAL
+: 
+"سریال"
+SERIAL_ACTIVATE
+: 
+"سریال فعالسازی"
+SERIAL_ACTIVATE_MSG
+: 
+"سریال فعالسازی در قسمت پایین را همراه با کد فعالساز که از طریق پیامک ارسال شده است را در اپلیکیشن همراز وارد کرده و رمز پویای خود را فعال کنید."
+SERIAL_NUMBER
+: 
+"سری"
+SERI_NUMBER
+: 
+"سری عددی"
+SERVIECES
+: 
+"خدمات"
+SETTINGS
+: 
+"تنظیمات"
+SHARE_CARD
+: 
+"اشتراک کارت"
+SHARE_RECEIPE_CONTENT
+: 
+"اشتراک متن رسید"
+SHARE_RECEIPE_IMAGE
+: 
+"اشتراک عکس رسید"
+SHEBA
+: 
+" شبا"
+SHEBA_NUMBER
+: 
+"شماره شبا"
+SHEBA_NUMBER_COPIED_TO_CLIPBOARD
+: 
+"شماره شبا در حافظه موقت ذخیره شد"
+SHEBA_TITLE
+: 
+"عنوان شبا"
+SHETAB_LOGIN_LINK
+: 
+"کارت های شتابی"
+SHOW_CARD_OR_ACCOUNT
+: 
+"نمایش کارت و حساب"
+SHOW_DETAILS
+: 
+"نمایش جزئیات"
+SHOW_MESSAGES
+: 
+" پیام ها"
+SHOW_MESSAGE_BOX
+: 
+"مشاهده صندوق پیام"
+SIGNERS
+: 
+"امضاکنندگان"
+SIM_CARD_CHARGE
+: 
+"شارژ سیم کارت"
+SOCIAL_SHARING
+: 
+"اشتراک گذاری"
+SOURCE
+: 
+"مبدأ"
+SOURCE_ACCOUNT
+: 
+"حساب مبدأ"
+SOURCE_CARD
+: 
+"کارت مبدأ"
+SOURCE_COMMENT
+: 
+"شرح مبدا"
+SPRING
+: 
+"بهار"
+STANDARD_CONSUMPTION
+: 
+"مصرف استاندارد"
+STATUS
+: 
+"وضعیت"
+STATUS_INQUERY
+: 
+"استعلام وضعیت"
+SUBSCRIPE_NUMBER
+: 
+"شماره اشتراک"
+SUBSCRIPTION_NUMBER
+: 
+"شماره اشتراک"
+SUCCESS
+: 
+"موفق"
+SUCCESSFUL_ACCOUNT_DEACTIVATE
+: 
+"درخواست شما با موفقیت انجام شد"
+SUCCESS_ACTICE_MESSAGEBOX
+: 
+"صندوق پیام با موفقیت فعال شد"
+SUCCESS_UNACTIVE_MESSAGEBOX
+: 
+"صندوق پیام با موفقیت غیر فعال شد"
+SUMMER
+: 
+"تابستان"
+SUPPORT
+: 
+"پشتیبانی: 1554-021"
+TAP_BUTTON_AD
+: 
+"3. در قسمت بالا روی Ad کلیک کنید"
+TAP_BUTTON_ADD_TO_HOME
+: 
+"2. گزینه Add to Home Screen فعال کنید"
+TAP_BUTTON_SHARE
+: 
+"1. بر روی share کلیک کنید"
+TARGET_COMMENT
+: 
+"شرح مقصد"
+TARIFF_TYPE
+: 
+"نوع تعرفه"
+TAX_VALUE
+: 
+"مبلغ کارمزد"
+TEJARAT
+: 
+"تجارت"
+TEJARAT_AD_MESSAGE
+: 
+"عملیات بانکی خود را به همراه بانک تجارت بسپارید، حتی اگه در بانک ما حساب ندارید."
+TEJARAT_BANK
+: 
+"بانک تجارت"
+TEJARAT_TRANSFER_ACCOUNT_TO_ACCOUNT
+: 
+"انتقال وجه تجارت (حساب به حساب)"
+TEJARAT_TRANSFER_CARD_TO_CARD
+: 
+"انتقال وجه تجارت (کارت به کارت)"
+TEL
+: 
+"تلفن ثابت - میان دوره"
+TEL_NOW
+: 
+"تلفن ثابت - میان دوره"
+TEL_NOW_TITLE
+: 
+" تلفن ثابت - میان دوره"
+TEL_TITLE
+: 
+" تلفن ثابت - پایان دوره"
+TEL_WITH_PRECODE
+: 
+"شماره تلفن به همراه کد شهرستان"
+THE_END
+: 
+"پایان"
+THREE_UNDER_LINE
+: 
+"_ _ _"
+TIMEOUT_MSG
+: 
+"خطا در دسترسی به برنامه"
+TITLE
+: 
+"عنوان"
+TITLE_PROFILE_MESSAGE_BOX
+: 
+"پروفایل مشتری در صندوق پیام"
+TO
+: 
+"تا"
+TOTAL_PAID_AMOUNT
+: 
+"جمع کل"
+TO_DATE
+: 
+"تا تاریخ"
+TRACKING_CODE
+: 
+"شماره پیگیری"
+TRAFFIC_PAY_LIST
+: 
+"لیست تردد و پرداخت"
+TRANSACTIONS_HISTORY
+: 
+"سوابق تراکنش "
+TRANSACTIONS_SENT_SUCCESSFULLY
+: 
+"صورتحساب به ایمیل شما ارسال شد"
+TRANSACTION_DETAIL
+: 
+"جزئیات تراکنش"
+TRANSACTION_TYPE
+: 
+"نوع تراکنش"
+TRANSFEREE
+: 
+"انتقال گیرنده"
+TRANSFER_CARD
+: 
+"انتقال وجه (کارت)"
+TRANSFER_CHEQUE_SUCCESSFUL
+: 
+"انتقال چک با موفقیت تایید شد"
+TRANSFER_COMMENTS
+: 
+"شرح انتقال"
+TRANSFER_DESCRIPTION
+: 
+"شرح"
+TRANSFER_FROM
+: 
+"انتقال از"
+TRANSFER_IBAN
+: 
+"انتقال وجه پایا/ساتنا"
+TRANSFER_NULL
+: 
+"انتقال وجه انجام نشده است"
+TRANSFER_TEJARAT
+: 
+"انتقال وجه (تجارت)"
+TRANSFER_TO
+: 
+"به"
+TRANSFRED_SUCCESSFULLY
+: 
+"انتقال با موفقیت انجام شده است"
+TRANSLATE_RECIPE
+: 
+"رسید انتقال وجه شتابی(کارت به کارت)"
+TRY_AGAIN
+: 
+"تلاش مجدد"
+TURNOVER
+: 
+"گردش حساب"
+TWO_ID_BILL
+: 
+"دو شناسه ای"
+TWO_UNDER_LINE
+: 
+"_ _"
+UNIT_COUNT
+: 
+"تعداد واحد"
+UNKNOWN
+: 
+"نامشخص"
+UNKNOWN_TITLE
+: 
+""
+UNPAID
+: 
+"پرداخت نشده"
+UPDATE
+: 
+"بروزرسانی"
+UPDATE_PLATE
+: 
+"ویرایش خودرو"
+USERNAME_ID
+: 
+"شناسه کاربری"
+USER_ACCOUNT
+: 
+"حساب کاربری"
+USER_NAME
+: 
+"نام کاربری - شماره ملی"
+USER_NAME_IS_EMPTY
+: 
+"نام کاربری خود را وارد کنید"
+USE_TYPE
+: 
+"نوع مصرف"
+VERSION
+: 
+"نسخه:1.3.7 "
+VERSION_DATE
+: 
+"تاریخ انتشار:1403/04/20"
+VIEW
+: 
+"نمایش"
+VIEWED
+: 
+"مشاهده شده"
+VILLAGE_GAZ_TAXES
+: 
+"عوارض گازرسانی به روستا"
+VIN_CARD
+: 
+"شناسه یکتا خودرو(VIN)"
+WATER
+: 
+"آب"
+WATER_TITLE
+: 
+"آب"
+WELLCOM_MESSAGE
+: 
+"به همراه بانک تجارت خوش آمدید"
+WILL_YOU_EXIT
+: 
+"آیا مایل به خروج هستید؟"
+WINTER
+: 
+"زمستان"
+WITHDRAW
+: 
+"برداشت"
+WITHDRAWAL
+: 
+"برداشت وجه"
+YEAR
+: 
+"سال"
+YES
+: 
+"بله"
+YOUR_REQUEST_SENT_SUCCESSFULLY
+: 
+"درخواست شما با موفقیت ارسال شد"
+ayandeh
+: 
+"آینده"
+feeType
+: 
+"بسته اعتباری"
+lang
+: 
+"انتخاب زبان"
+language
+: 
+"انتخاب زبان"
+limitType
+: 
+"سطح تراکنش"
+maskan
+: 
+"مسکن"
+mellat
+: 
+"ملت"
+pasargad
+: 
+"پاسارگارد"
+saman
+: 
+"سامان"
+tejarat
+: 
+"تجارت"
+welcome
+: 
+" خوش آمدید"

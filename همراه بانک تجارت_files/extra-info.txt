@@ -1,0 +1,4792 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": "537.36"
+    },
+    "pages": [],
+    "entries": [
+      {
+        "_connectionId": "255686",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "call",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 14257
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 176787
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 137507
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 184407
+              },
+              {
+                "functionName": "loginClickHandler",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 98,
+                "columnNumber": 73484
+              },
+              {
+                "functionName": "s",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 456
+              },
+              {
+                "functionName": "m",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 599
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 745
+              },
+              {
+                "functionName": "y",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 831
+              },
+              {
+                "functionName": "ot",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 16359
+              },
+              {
+                "functionName": "rt",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 16169
+              },
+              {
+                "functionName": "st",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 16525
+              },
+              {
+                "functionName": "mt",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 17732
+              },
+              {
+                "functionName": "R",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 114517
+              },
+              {
+                "functionName": "U",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 2154
+              },
+              {
+                "functionName": "Zt",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 23690
+              },
+              {
+                "functionName": "$t",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 22907
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "j",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 114294
+              },
+              {
+                "functionName": "Jt",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 22723
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "POST",
+          "url": "https://mbt.tejaratbank.ir/api/authentication/login",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "fa,en-US;q=0.9,en;q=0.8"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Agent",
+              "value": "PWA"
+            },
+            {
+              "name": "AppVer",
+              "value": "1.3.7"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "CommunicationChannel",
+              "value": "REST"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "568"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "DeviceId",
+              "value": "62B21B4A-CE46-49FF-A51E-1DF382099ABC"
+            },
+            {
+              "name": "DeviceType",
+              "value": "Simulator"
+            },
+            {
+              "name": "Host",
+              "value": "mbt.tejaratbank.ir"
+            },
+            {
+              "name": "OSVer",
+              "value": "PWA"
+            },
+            {
+              "name": "Origin",
+              "value": "https://hb.tejaratbank.ir"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "https://hb.tejaratbank.ir/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-site"
+            },
+            {
+              "name": "Signature",
+              "value": "PWA"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 869,
+          "bodySize": 568,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"username\":\"b/Z2StVhxhkLbAzBVc4lOLkKNpTa+INW8wR3hX/5exxGoqKgxlxOXfGIkpy5YNvY2iVw0yBAmOlxTsQ+kK72K5k6W2gGmDWgzRt1+t5QBmLAdq3OKd2KfKflroU8A0izDY6syMvMeJvRYAgCOOOlWHi9T2Bfhj/C1vZXjlghGaQ=\",\"password\":\"mV/QnYHNb+i29IFeu9OaXvv2KgdLS9qX7daJRqKelp7Dd2/Q9QOCQ8/ce0ZvTnQgYOuKFeIZUpjkq4gQCmY5Hm+3Q0clp1RJCsYCmlTU5K4nzXHaqg58TLMF/9cn8Qw7qMaI6sF5Efikcl0H0T7ifxMNq0NqJ/v9UbM4t+61k0c=\",\"captchaValue\":\"\",\"sourceAccountFlag\":true,\"sourceCardBalanceFlag\":true,\"sourceCardFlag\":true,\"customerInfoFlag\":true,\"sourceAccountBalanceFlag\":true,\"cardCustomerFlag\":false,\"rootedDevice\":true}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json;charset=UTF-8"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 15 Aug 2025 09:38:39 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "Fri, 15 Aug 2025 09:38:38 GMT"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Server",
+              "value": "nginx"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Method"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Headers"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "content-length",
+              "value": "6760"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 6760,
+            "mimeType": "application/json",
+            "compression": -1
+          },
+          "redirectURL": "",
+          "headersSize": 532,
+          "bodySize": 6761,
+          "_transferSize": 7293,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "82.99.224.203",
+        "startedDateTime": "2025-08-14T22:00:38.845Z",
+        "time": 916.8559999961872,
+        "timings": {
+          "blocked": 657.682999987456,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.187,
+          "wait": 258.5420000039404,
+          "receive": 0.4440000047907233,
+          "_blocked_queueing": 657.480999987456,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "255686",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "call",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 14257
+              },
+              {
+                "functionName": "infoMessageBox",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 10,
+                "columnNumber": 9734
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 98,
+                "columnNumber": 96160
+              },
+              {
+                "functionName": "rs",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 83207
+              },
+              {
+                "functionName": "_c",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102286
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "pc",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102045
+              },
+              {
+                "functionName": "Xs",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 93594
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45313
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "Gr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45258
+              },
+              {
+                "functionName": "Wr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45193
+              },
+              {
+                "functionName": "Ks",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 90456
+              },
+              {
+                "functionName": "enqueueSetState",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 48978
+              },
+              {
+                "functionName": "b.setState",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 47,
+                "columnNumber": 1296
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 116530
+              },
+              {
+                "functionName": "a",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 160931
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 161161
+              },
+              {
+                "functionName": "notifyListeners",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 161131
+              },
+              {
+                "functionName": "w",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 162124
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 163178
+              },
+              {
+                "functionName": "confirmTransitionTo",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 160870
+              },
+              {
+                "functionName": "push",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 162958
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 177027
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "GET",
+          "url": "https://mbt.tejaratbank.ir/api/customer/extra-info",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "fa,en-US;q=0.9,en;q=0.8"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Agent",
+              "value": "PWA"
+            },
+            {
+              "name": "AppVer",
+              "value": "1.3.7"
+            },
+            {
+              "name": "Authorization",
+              "value": "Basic eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0NTAxMTQ1MDMxIiwiRXh0cmFEYXRhIjoie1wiY3VzdG9tZXJJZFwiOjQ1MDExNixcInNlc3Npb25JZFwiOlwiMWEyMDliNjktOWMxOC00ODcxLThkYzEtN2Y4OGEyOGI5OGY0XCIsXCJjdXN0b21lclNvdXJjZVwiOjEsXCJmb3JlaWduZXJDb2RlXCI6bnVsbH0ifQ.RFwvCw6ts7r23nsdAcw9aWCr4lirgtJNnXes0gRspK58fbRC7RqtioDG6eazWaXlfz_lW0Kmpix92TKveUXuEg"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "CommunicationChannel",
+              "value": "REST"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "DeviceId",
+              "value": "62B21B4A-CE46-49FF-A51E-1DF382099ABC"
+            },
+            {
+              "name": "DeviceType",
+              "value": "Simulator"
+            },
+            {
+              "name": "Host",
+              "value": "mbt.tejaratbank.ir"
+            },
+            {
+              "name": "OSVer",
+              "value": "PWA"
+            },
+            {
+              "name": "Origin",
+              "value": "https://hb.tejaratbank.ir"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "https://hb.tejaratbank.ir/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-site"
+            },
+            {
+              "name": "Signature",
+              "value": "PWA"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 1187,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 15 Aug 2025 09:38:39 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "Fri, 15 Aug 2025 09:38:38 GMT"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Server",
+              "value": "nginx"
+            },
+            {
+              "name": "Set-Cookie",
+              "value": "JSESSIONID=7DFDB58377375258259B8A48340F1416; Path=/; HttpOnly"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Method"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Headers"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_200_86400",
+              "value": "200"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_5_60",
+              "value": "5"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_200_86400",
+              "value": "199"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_5_60",
+              "value": "4"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_200_86400",
+              "value": "86400000"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_5_60",
+              "value": "60000"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "content-length",
+              "value": "1245"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "JSESSIONID",
+              "value": "7DFDB58377375258259B8A48340F1416",
+              "path": "/",
+              "domain": "mbt.tejaratbank.ir",
+              "expires": null,
+              "httpOnly": true,
+              "secure": false
+            }
+          ],
+          "content": {
+            "size": 1245,
+            "mimeType": "application/json",
+            "compression": -1
+          },
+          "redirectURL": "",
+          "headersSize": 1231,
+          "bodySize": 1246,
+          "_transferSize": 2477,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "82.99.224.203",
+        "startedDateTime": "2025-08-14T22:00:39.818Z",
+        "time": 613.4459999884712,
+        "timings": {
+          "blocked": 132.3439999989653,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.16899999999999993,
+          "wait": 480.1219999987157,
+          "receive": 0.8109999907901511,
+          "_blocked_queueing": 131.9389999989653,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "256203",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "call",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 14257
+              },
+              {
+                "functionName": "getDestinations",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 71017
+              },
+              {
+                "functionName": "",
+                "scriptId": "112",
+                "url": "https://hb.tejaratbank.ir/js/23.03f50cc6d4321eddebc4.js",
+                "lineNumber": 0,
+                "columnNumber": 29057
+              },
+              {
+                "functionName": "rs",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 83207
+              },
+              {
+                "functionName": "_c",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102286
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "pc",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102045
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 101956
+              },
+              {
+                "functionName": "H",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 2782
+              },
+              {
+                "functionName": "L.port1.onmessage",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 1538
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "GET",
+          "url": "https://mbt.tejaratbank.ir/api/card/destination",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "fa,en-US;q=0.9,en;q=0.8"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Agent",
+              "value": "PWA"
+            },
+            {
+              "name": "AppVer",
+              "value": "1.3.7"
+            },
+            {
+              "name": "Authorization",
+              "value": "Basic eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0NTAxMTQ1MDMxIiwiRXh0cmFEYXRhIjoie1wiY3VzdG9tZXJJZFwiOjQ1MDExNixcInNlc3Npb25JZFwiOlwiMWEyMDliNjktOWMxOC00ODcxLThkYzEtN2Y4OGEyOGI5OGY0XCIsXCJjdXN0b21lclNvdXJjZVwiOjEsXCJmb3JlaWduZXJDb2RlXCI6bnVsbH0ifQ.RFwvCw6ts7r23nsdAcw9aWCr4lirgtJNnXes0gRspK58fbRC7RqtioDG6eazWaXlfz_lW0Kmpix92TKveUXuEg"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "CommunicationChannel",
+              "value": "REST"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "DeviceId",
+              "value": "62B21B4A-CE46-49FF-A51E-1DF382099ABC"
+            },
+            {
+              "name": "DeviceType",
+              "value": "Simulator"
+            },
+            {
+              "name": "Host",
+              "value": "mbt.tejaratbank.ir"
+            },
+            {
+              "name": "OSVer",
+              "value": "PWA"
+            },
+            {
+              "name": "Origin",
+              "value": "https://hb.tejaratbank.ir"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "https://hb.tejaratbank.ir/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-site"
+            },
+            {
+              "name": "Signature",
+              "value": "PWA"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 1184,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 15 Aug 2025 09:40:07 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "Fri, 15 Aug 2025 09:40:06 GMT"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Server",
+              "value": "nginx"
+            },
+            {
+              "name": "Set-Cookie",
+              "value": "JSESSIONID=D458E0667AA0E7227F614B010E93998A; Path=/; HttpOnly"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Method"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Headers"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_200_86400",
+              "value": "200"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_20_60",
+              "value": "20"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_200_86400",
+              "value": "199"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_20_60",
+              "value": "19"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_200_86400",
+              "value": "86400000"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_20_60",
+              "value": "60000"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "content-length",
+              "value": "15267"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "JSESSIONID",
+              "value": "D458E0667AA0E7227F614B010E93998A",
+              "path": "/",
+              "domain": "mbt.tejaratbank.ir",
+              "expires": null,
+              "httpOnly": true,
+              "secure": false
+            }
+          ],
+          "content": {
+            "size": 15267,
+            "mimeType": "application/json",
+            "compression": -1
+          },
+          "redirectURL": "",
+          "headersSize": 1255,
+          "bodySize": 15268,
+          "_transferSize": 16523,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "82.99.224.203",
+        "startedDateTime": "2025-08-14T22:02:07.294Z",
+        "time": 995.3409999870928,
+        "timings": {
+          "blocked": 561.0189999996721,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.3900000000000001,
+          "wait": 360.20399999894295,
+          "receive": 73.72799998847768,
+          "_blocked_queueing": 559.7479999996722,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "256345",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "call",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 14257
+              },
+              {
+                "functionName": "getDestinations",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 71017
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 150231
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 137507
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 184407
+              },
+              {
+                "functionName": "",
+                "scriptId": "113",
+                "url": "https://hb.tejaratbank.ir/js/91.03f50cc6d4321eddebc4.js",
+                "lineNumber": 0,
+                "columnNumber": 2105
+              },
+              {
+                "functionName": "Vi",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 57929
+              },
+              {
+                "functionName": "_s",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 104168
+              },
+              {
+                "functionName": "uc",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 96716
+              },
+              {
+                "functionName": "sc",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 96641
+              },
+              {
+                "functionName": "Xs",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 93671
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45313
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "Gr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45258
+              },
+              {
+                "functionName": "H",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 2782
+              },
+              {
+                "functionName": "L.port1.onmessage",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 1538
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "GET",
+          "url": "https://mbt.tejaratbank.ir/api/card/destination",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "fa,en-US;q=0.9,en;q=0.8"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Agent",
+              "value": "PWA"
+            },
+            {
+              "name": "AppVer",
+              "value": "1.3.7"
+            },
+            {
+              "name": "Authorization",
+              "value": "Basic eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0NTAxMTQ1MDMxIiwiRXh0cmFEYXRhIjoie1wiY3VzdG9tZXJJZFwiOjQ1MDExNixcInNlc3Npb25JZFwiOlwiMWEyMDliNjktOWMxOC00ODcxLThkYzEtN2Y4OGEyOGI5OGY0XCIsXCJjdXN0b21lclNvdXJjZVwiOjEsXCJmb3JlaWduZXJDb2RlXCI6bnVsbH0ifQ.RFwvCw6ts7r23nsdAcw9aWCr4lirgtJNnXes0gRspK58fbRC7RqtioDG6eazWaXlfz_lW0Kmpix92TKveUXuEg"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "CommunicationChannel",
+              "value": "REST"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "DeviceId",
+              "value": "62B21B4A-CE46-49FF-A51E-1DF382099ABC"
+            },
+            {
+              "name": "DeviceType",
+              "value": "Simulator"
+            },
+            {
+              "name": "Host",
+              "value": "mbt.tejaratbank.ir"
+            },
+            {
+              "name": "OSVer",
+              "value": "PWA"
+            },
+            {
+              "name": "Origin",
+              "value": "https://hb.tejaratbank.ir"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "https://hb.tejaratbank.ir/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-site"
+            },
+            {
+              "name": "Signature",
+              "value": "PWA"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 1184,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 15 Aug 2025 09:41:11 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "Fri, 15 Aug 2025 09:41:10 GMT"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Server",
+              "value": "nginx"
+            },
+            {
+              "name": "Set-Cookie",
+              "value": "JSESSIONID=36879D74DA6C040E565A0B5483CEFCCC; Path=/; HttpOnly"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Method"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Headers"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_200_86400",
+              "value": "200"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_20_60",
+              "value": "20"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_200_86400",
+              "value": "198"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_20_60",
+              "value": "19"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_200_86400",
+              "value": "86400000"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_20_60",
+              "value": "60000"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "content-length",
+              "value": "15267"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "JSESSIONID",
+              "value": "36879D74DA6C040E565A0B5483CEFCCC",
+              "path": "/",
+              "domain": "mbt.tejaratbank.ir",
+              "expires": null,
+              "httpOnly": true,
+              "secure": false
+            }
+          ],
+          "content": {
+            "size": 15267,
+            "mimeType": "application/json",
+            "compression": -1
+          },
+          "redirectURL": "",
+          "headersSize": 1255,
+          "bodySize": 15268,
+          "_transferSize": 16523,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "82.99.224.203",
+        "startedDateTime": "2025-08-14T22:03:11.025Z",
+        "time": 848.5219999856781,
+        "timings": {
+          "blocked": 519.8929999926286,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.17999999999999994,
+          "wait": 260.49699999544583,
+          "receive": 67.9519999976037,
+          "_blocked_queueing": 519.0849999926286,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "256606",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "call",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 14257
+              },
+              {
+                "functionName": "getDestinations",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 71017
+              },
+              {
+                "functionName": "",
+                "scriptId": "112",
+                "url": "https://hb.tejaratbank.ir/js/23.03f50cc6d4321eddebc4.js",
+                "lineNumber": 0,
+                "columnNumber": 29057
+              },
+              {
+                "functionName": "rs",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 83207
+              },
+              {
+                "functionName": "_c",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102286
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "pc",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102045
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 101956
+              },
+              {
+                "functionName": "H",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 2782
+              },
+              {
+                "functionName": "L.port1.onmessage",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 1538
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "GET",
+          "url": "https://mbt.tejaratbank.ir/api/card/destination",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "fa,en-US;q=0.9,en;q=0.8"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Agent",
+              "value": "PWA"
+            },
+            {
+              "name": "AppVer",
+              "value": "1.3.7"
+            },
+            {
+              "name": "Authorization",
+              "value": "Basic eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0NTAxMTQ1MDMxIiwiRXh0cmFEYXRhIjoie1wiY3VzdG9tZXJJZFwiOjQ1MDExNixcInNlc3Npb25JZFwiOlwiMWEyMDliNjktOWMxOC00ODcxLThkYzEtN2Y4OGEyOGI5OGY0XCIsXCJjdXN0b21lclNvdXJjZVwiOjEsXCJmb3JlaWduZXJDb2RlXCI6bnVsbH0ifQ.RFwvCw6ts7r23nsdAcw9aWCr4lirgtJNnXes0gRspK58fbRC7RqtioDG6eazWaXlfz_lW0Kmpix92TKveUXuEg"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "CommunicationChannel",
+              "value": "REST"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "DeviceId",
+              "value": "62B21B4A-CE46-49FF-A51E-1DF382099ABC"
+            },
+            {
+              "name": "DeviceType",
+              "value": "Simulator"
+            },
+            {
+              "name": "Host",
+              "value": "mbt.tejaratbank.ir"
+            },
+            {
+              "name": "OSVer",
+              "value": "PWA"
+            },
+            {
+              "name": "Origin",
+              "value": "https://hb.tejaratbank.ir"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "https://hb.tejaratbank.ir/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-site"
+            },
+            {
+              "name": "Signature",
+              "value": "PWA"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 1184,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 15 Aug 2025 09:42:46 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "Fri, 15 Aug 2025 09:42:45 GMT"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Server",
+              "value": "nginx"
+            },
+            {
+              "name": "Set-Cookie",
+              "value": "JSESSIONID=D515AF26E4124B4582EFFAE2007D5877; Path=/; HttpOnly"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Method"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Headers"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_200_86400",
+              "value": "200"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_20_60",
+              "value": "20"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_200_86400",
+              "value": "197"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_20_60",
+              "value": "19"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_200_86400",
+              "value": "86400000"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_20_60",
+              "value": "60000"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "content-length",
+              "value": "15267"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "JSESSIONID",
+              "value": "D515AF26E4124B4582EFFAE2007D5877",
+              "path": "/",
+              "domain": "mbt.tejaratbank.ir",
+              "expires": null,
+              "httpOnly": true,
+              "secure": false
+            }
+          ],
+          "content": {
+            "size": 15267,
+            "mimeType": "application/json",
+            "compression": -1
+          },
+          "redirectURL": "",
+          "headersSize": 1255,
+          "bodySize": 15268,
+          "_transferSize": 16523,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "82.99.224.203",
+        "startedDateTime": "2025-08-14T22:04:44.586Z",
+        "time": 2419.1660000069533,
+        "timings": {
+          "blocked": 1941.4010000003586,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.31499999999999995,
+          "wait": 206.2840000006892,
+          "receive": 271.1660000059055,
+          "_blocked_queueing": 1940.5100000003586,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "256717",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "call",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 14257
+              },
+              {
+                "functionName": "getDestinations",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 71017
+              },
+              {
+                "functionName": "",
+                "scriptId": "112",
+                "url": "https://hb.tejaratbank.ir/js/23.03f50cc6d4321eddebc4.js",
+                "lineNumber": 0,
+                "columnNumber": 29057
+              },
+              {
+                "functionName": "rs",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 83207
+              },
+              {
+                "functionName": "_c",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102286
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "pc",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102045
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 101956
+              },
+              {
+                "functionName": "H",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 2782
+              },
+              {
+                "functionName": "L.port1.onmessage",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 1538
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "GET",
+          "url": "https://mbt.tejaratbank.ir/api/card/destination",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "fa,en-US;q=0.9,en;q=0.8"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Agent",
+              "value": "PWA"
+            },
+            {
+              "name": "AppVer",
+              "value": "1.3.7"
+            },
+            {
+              "name": "Authorization",
+              "value": "Basic eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0NTAxMTQ1MDMxIiwiRXh0cmFEYXRhIjoie1wiY3VzdG9tZXJJZFwiOjQ1MDExNixcInNlc3Npb25JZFwiOlwiMWEyMDliNjktOWMxOC00ODcxLThkYzEtN2Y4OGEyOGI5OGY0XCIsXCJjdXN0b21lclNvdXJjZVwiOjEsXCJmb3JlaWduZXJDb2RlXCI6bnVsbH0ifQ.RFwvCw6ts7r23nsdAcw9aWCr4lirgtJNnXes0gRspK58fbRC7RqtioDG6eazWaXlfz_lW0Kmpix92TKveUXuEg"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "CommunicationChannel",
+              "value": "REST"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "DeviceId",
+              "value": "62B21B4A-CE46-49FF-A51E-1DF382099ABC"
+            },
+            {
+              "name": "DeviceType",
+              "value": "Simulator"
+            },
+            {
+              "name": "Host",
+              "value": "mbt.tejaratbank.ir"
+            },
+            {
+              "name": "OSVer",
+              "value": "PWA"
+            },
+            {
+              "name": "Origin",
+              "value": "https://hb.tejaratbank.ir"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "https://hb.tejaratbank.ir/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-site"
+            },
+            {
+              "name": "Signature",
+              "value": "PWA"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 1184,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 15 Aug 2025 09:42:58 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "Fri, 15 Aug 2025 09:42:57 GMT"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Server",
+              "value": "nginx"
+            },
+            {
+              "name": "Set-Cookie",
+              "value": "JSESSIONID=1D2BA2CED451D192E6E31A977B0CC074; Path=/; HttpOnly"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Method"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Headers"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_200_86400",
+              "value": "200"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_20_60",
+              "value": "20"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_200_86400",
+              "value": "196"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_20_60",
+              "value": "18"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_200_86400",
+              "value": "86400000"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_card-destination_api_card_destination_4501145031_20_60",
+              "value": "60000"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "content-length",
+              "value": "15267"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "JSESSIONID",
+              "value": "1D2BA2CED451D192E6E31A977B0CC074",
+              "path": "/",
+              "domain": "mbt.tejaratbank.ir",
+              "expires": null,
+              "httpOnly": true,
+              "secure": false
+            }
+          ],
+          "content": {
+            "size": 15267,
+            "mimeType": "application/json",
+            "compression": -1
+          },
+          "redirectURL": "",
+          "headersSize": 1255,
+          "bodySize": 15268,
+          "_transferSize": 16523,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "82.99.224.203",
+        "startedDateTime": "2025-08-14T22:04:58.931Z",
+        "time": 801.9380000041565,
+        "timings": {
+          "blocked": 324.5850000018114,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.20100000000000007,
+          "wait": 317.68299999671615,
+          "receive": 159.4690000056289,
+          "_blocked_queueing": 323.4450000018114,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "257119",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "call",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 14257
+              },
+              {
+                "functionName": "infoMessageBox",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 10,
+                "columnNumber": 9734
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 98,
+                "columnNumber": 96160
+              },
+              {
+                "functionName": "rs",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 83207
+              },
+              {
+                "functionName": "_c",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102286
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "pc",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102045
+              },
+              {
+                "functionName": "Xs",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 93594
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45313
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "Gr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45258
+              },
+              {
+                "functionName": "Wr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45193
+              },
+              {
+                "functionName": "j",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 114342
+              },
+              {
+                "functionName": "Jt",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 22723
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "GET",
+          "url": "https://mbt.tejaratbank.ir/api/customer/extra-info",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "fa,en-US;q=0.9,en;q=0.8"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Agent",
+              "value": "PWA"
+            },
+            {
+              "name": "AppVer",
+              "value": "1.3.7"
+            },
+            {
+              "name": "Authorization",
+              "value": "Basic eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0NTAxMTQ1MDMxIiwiRXh0cmFEYXRhIjoie1wiY3VzdG9tZXJJZFwiOjQ1MDExNixcInNlc3Npb25JZFwiOlwiMWEyMDliNjktOWMxOC00ODcxLThkYzEtN2Y4OGEyOGI5OGY0XCIsXCJjdXN0b21lclNvdXJjZVwiOjEsXCJmb3JlaWduZXJDb2RlXCI6bnVsbH0ifQ.RFwvCw6ts7r23nsdAcw9aWCr4lirgtJNnXes0gRspK58fbRC7RqtioDG6eazWaXlfz_lW0Kmpix92TKveUXuEg"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "CommunicationChannel",
+              "value": "REST"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "DeviceId",
+              "value": "62B21B4A-CE46-49FF-A51E-1DF382099ABC"
+            },
+            {
+              "name": "DeviceType",
+              "value": "Simulator"
+            },
+            {
+              "name": "Host",
+              "value": "mbt.tejaratbank.ir"
+            },
+            {
+              "name": "OSVer",
+              "value": "PWA"
+            },
+            {
+              "name": "Origin",
+              "value": "https://hb.tejaratbank.ir"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "https://hb.tejaratbank.ir/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-site"
+            },
+            {
+              "name": "Signature",
+              "value": "PWA"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 1187,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 15 Aug 2025 09:44:08 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "Fri, 15 Aug 2025 09:44:07 GMT"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Server",
+              "value": "nginx"
+            },
+            {
+              "name": "Set-Cookie",
+              "value": "JSESSIONID=39303AB6AC1D6ED5BA7D644F40C179C3; Path=/; HttpOnly"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Method"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Headers"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_200_86400",
+              "value": "200"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_5_60",
+              "value": "5"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_200_86400",
+              "value": "198"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_5_60",
+              "value": "4"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_200_86400",
+              "value": "86400000"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_5_60",
+              "value": "60000"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "content-length",
+              "value": "1245"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "JSESSIONID",
+              "value": "39303AB6AC1D6ED5BA7D644F40C179C3",
+              "path": "/",
+              "domain": "mbt.tejaratbank.ir",
+              "expires": null,
+              "httpOnly": true,
+              "secure": false
+            }
+          ],
+          "content": {
+            "size": 1245,
+            "mimeType": "application/json",
+            "compression": -1
+          },
+          "redirectURL": "",
+          "headersSize": 1231,
+          "bodySize": 1246,
+          "_transferSize": 2477,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "82.99.224.203",
+        "startedDateTime": "2025-08-14T22:06:07.932Z",
+        "time": 932.0420000003651,
+        "timings": {
+          "blocked": 721.5779999962347,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.20100000000000007,
+          "wait": 208.40999999528006,
+          "receive": 1.8530000088503584,
+          "_blocked_queueing": 721.2319999962347,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "257208",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "call",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 14257
+              },
+              {
+                "functionName": "getDestinations",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 10,
+                "columnNumber": 4459
+              },
+              {
+                "functionName": "",
+                "scriptId": "141",
+                "url": "https://hb.tejaratbank.ir/js/30.03f50cc6d4321eddebc4.js",
+                "lineNumber": 0,
+                "columnNumber": 4571
+              },
+              {
+                "functionName": "rs",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 83207
+              },
+              {
+                "functionName": "_c",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102286
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "pc",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102045
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 101956
+              },
+              {
+                "functionName": "H",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 2782
+              },
+              {
+                "functionName": "L.port1.onmessage",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 1538
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "GET",
+          "url": "https://mbt.tejaratbank.ir/api/account/destination",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "fa,en-US;q=0.9,en;q=0.8"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Agent",
+              "value": "PWA"
+            },
+            {
+              "name": "AppVer",
+              "value": "1.3.7"
+            },
+            {
+              "name": "Authorization",
+              "value": "Basic eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0NTAxMTQ1MDMxIiwiRXh0cmFEYXRhIjoie1wiY3VzdG9tZXJJZFwiOjQ1MDExNixcInNlc3Npb25JZFwiOlwiMWEyMDliNjktOWMxOC00ODcxLThkYzEtN2Y4OGEyOGI5OGY0XCIsXCJjdXN0b21lclNvdXJjZVwiOjEsXCJmb3JlaWduZXJDb2RlXCI6bnVsbH0ifQ.RFwvCw6ts7r23nsdAcw9aWCr4lirgtJNnXes0gRspK58fbRC7RqtioDG6eazWaXlfz_lW0Kmpix92TKveUXuEg"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "CommunicationChannel",
+              "value": "REST"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "DeviceId",
+              "value": "62B21B4A-CE46-49FF-A51E-1DF382099ABC"
+            },
+            {
+              "name": "DeviceType",
+              "value": "Simulator"
+            },
+            {
+              "name": "Host",
+              "value": "mbt.tejaratbank.ir"
+            },
+            {
+              "name": "OSVer",
+              "value": "PWA"
+            },
+            {
+              "name": "Origin",
+              "value": "https://hb.tejaratbank.ir"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "https://hb.tejaratbank.ir/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-site"
+            },
+            {
+              "name": "Signature",
+              "value": "PWA"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 1187,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 15 Aug 2025 09:44:09 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "Fri, 15 Aug 2025 09:44:08 GMT"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Server",
+              "value": "nginx"
+            },
+            {
+              "name": "Set-Cookie",
+              "value": "JSESSIONID=25273E8CA95A42AEDF8CFA1BC5B8328F; Path=/; HttpOnly"
+            },
+            {
+              "name": "Set-Cookie",
+              "value": "cookiesession1=678B2877D1D126468959D139A80201B3;Expires=Sat, 15 Aug 2026 09:44:09 GMT;Path=/;HttpOnly"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Method"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Headers"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_200_86400",
+              "value": "200"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_20_60",
+              "value": "20"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_200_86400",
+              "value": "199"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_20_60",
+              "value": "19"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_200_86400",
+              "value": "86400000"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_20_60",
+              "value": "60000"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "content-length",
+              "value": "2315"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "JSESSIONID",
+              "value": "25273E8CA95A42AEDF8CFA1BC5B8328F",
+              "path": "/",
+              "domain": "mbt.tejaratbank.ir",
+              "expires": null,
+              "httpOnly": true,
+              "secure": false
+            },
+            {
+              "name": "cookiesession1",
+              "value": "678B2877D1D126468959D139A80201B3",
+              "path": "/",
+              "domain": "mbt.tejaratbank.ir",
+              "expires": "2026-08-15T09:44:09.000Z",
+              "httpOnly": true,
+              "secure": false
+            }
+          ],
+          "content": {
+            "size": 2315,
+            "mimeType": "application/json",
+            "compression": -1
+          },
+          "redirectURL": "",
+          "headersSize": 1405,
+          "bodySize": 2316,
+          "_transferSize": 3721,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "82.99.224.203",
+        "startedDateTime": "2025-08-14T22:06:09.651Z",
+        "time": 397.0899999985704,
+        "timings": {
+          "blocked": 152.61099999770522,
+          "dns": 0,
+          "ssl": 96.744,
+          "connect": 96.751,
+          "send": 0.5049999999999955,
+          "wait": 146.40599999349192,
+          "receive": 0.8170000073732808,
+          "_blocked_queueing": 152.61099999770522,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "257119",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "call",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 14257
+              },
+              {
+                "functionName": "getReasons",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 10,
+                "columnNumber": 10077
+              },
+              {
+                "functionName": "",
+                "scriptId": "141",
+                "url": "https://hb.tejaratbank.ir/js/30.03f50cc6d4321eddebc4.js",
+                "lineNumber": 0,
+                "columnNumber": 14681
+              },
+              {
+                "functionName": "rs",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 83207
+              },
+              {
+                "functionName": "_c",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102286
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "pc",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102045
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 101956
+              },
+              {
+                "functionName": "H",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 2782
+              },
+              {
+                "functionName": "L.port1.onmessage",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 1538
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "GET",
+          "url": "https://mbt.tejaratbank.ir/api/transfer/reasons",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "fa,en-US;q=0.9,en;q=0.8"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Agent",
+              "value": "PWA"
+            },
+            {
+              "name": "AppVer",
+              "value": "1.3.7"
+            },
+            {
+              "name": "Authorization",
+              "value": "Basic eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0NTAxMTQ1MDMxIiwiRXh0cmFEYXRhIjoie1wiY3VzdG9tZXJJZFwiOjQ1MDExNixcInNlc3Npb25JZFwiOlwiMWEyMDliNjktOWMxOC00ODcxLThkYzEtN2Y4OGEyOGI5OGY0XCIsXCJjdXN0b21lclNvdXJjZVwiOjEsXCJmb3JlaWduZXJDb2RlXCI6bnVsbH0ifQ.RFwvCw6ts7r23nsdAcw9aWCr4lirgtJNnXes0gRspK58fbRC7RqtioDG6eazWaXlfz_lW0Kmpix92TKveUXuEg"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "CommunicationChannel",
+              "value": "REST"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "DeviceId",
+              "value": "62B21B4A-CE46-49FF-A51E-1DF382099ABC"
+            },
+            {
+              "name": "DeviceType",
+              "value": "Simulator"
+            },
+            {
+              "name": "Host",
+              "value": "mbt.tejaratbank.ir"
+            },
+            {
+              "name": "OSVer",
+              "value": "PWA"
+            },
+            {
+              "name": "Origin",
+              "value": "https://hb.tejaratbank.ir"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "https://hb.tejaratbank.ir/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-site"
+            },
+            {
+              "name": "Signature",
+              "value": "PWA"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 1184,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 15 Aug 2025 09:44:09 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "Fri, 15 Aug 2025 09:44:08 GMT"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Server",
+              "value": "nginx"
+            },
+            {
+              "name": "Set-Cookie",
+              "value": "JSESSIONID=41A49ACA274C29BAE664E460A3D8E542; Path=/; HttpOnly"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Method"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Headers"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_reasons_api_transfer_reasons_4501145031_200_86400",
+              "value": "200"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_reasons_api_transfer_reasons_4501145031_5_60",
+              "value": "5"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_reasons_api_transfer_reasons_4501145031_200_86400",
+              "value": "199"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_reasons_api_transfer_reasons_4501145031_5_60",
+              "value": "4"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_reasons_api_transfer_reasons_4501145031_200_86400",
+              "value": "86400000"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_reasons_api_transfer_reasons_4501145031_5_60",
+              "value": "60000"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "content-length",
+              "value": "1549"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "JSESSIONID",
+              "value": "41A49ACA274C29BAE664E460A3D8E542",
+              "path": "/",
+              "domain": "mbt.tejaratbank.ir",
+              "expires": null,
+              "httpOnly": true,
+              "secure": false
+            }
+          ],
+          "content": {
+            "size": 1549,
+            "mimeType": "application/json",
+            "compression": -1
+          },
+          "redirectURL": "",
+          "headersSize": 1195,
+          "bodySize": 1550,
+          "_transferSize": 2745,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "82.99.224.203",
+        "startedDateTime": "2025-08-14T22:06:09.652Z",
+        "time": 401.6830000036862,
+        "timings": {
+          "blocked": 277.81600000375136,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.21200000000000063,
+          "wait": 122.29799999892711,
+          "receive": 1.357000001007691,
+          "_blocked_queueing": 270.12800000375137,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "257119",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "call",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 14257
+              },
+              {
+                "functionName": "getDestinations",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 10,
+                "columnNumber": 4459
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 168501
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 137507
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 184407
+              },
+              {
+                "functionName": "",
+                "scriptId": "142",
+                "url": "https://hb.tejaratbank.ir/js/95.03f50cc6d4321eddebc4.js",
+                "lineNumber": 0,
+                "columnNumber": 1682
+              },
+              {
+                "functionName": "Vi",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 57929
+              },
+              {
+                "functionName": "_s",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 104168
+              },
+              {
+                "functionName": "uc",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 96716
+              },
+              {
+                "functionName": "sc",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 96641
+              },
+              {
+                "functionName": "Xs",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 93671
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45313
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "Gr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45258
+              },
+              {
+                "functionName": "H",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 2782
+              },
+              {
+                "functionName": "L.port1.onmessage",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 1538
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "GET",
+          "url": "https://mbt.tejaratbank.ir/api/account/destination",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "fa,en-US;q=0.9,en;q=0.8"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Agent",
+              "value": "PWA"
+            },
+            {
+              "name": "AppVer",
+              "value": "1.3.7"
+            },
+            {
+              "name": "Authorization",
+              "value": "Basic eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0NTAxMTQ1MDMxIiwiRXh0cmFEYXRhIjoie1wiY3VzdG9tZXJJZFwiOjQ1MDExNixcInNlc3Npb25JZFwiOlwiMWEyMDliNjktOWMxOC00ODcxLThkYzEtN2Y4OGEyOGI5OGY0XCIsXCJjdXN0b21lclNvdXJjZVwiOjEsXCJmb3JlaWduZXJDb2RlXCI6bnVsbH0ifQ.RFwvCw6ts7r23nsdAcw9aWCr4lirgtJNnXes0gRspK58fbRC7RqtioDG6eazWaXlfz_lW0Kmpix92TKveUXuEg"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "CommunicationChannel",
+              "value": "REST"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "DeviceId",
+              "value": "62B21B4A-CE46-49FF-A51E-1DF382099ABC"
+            },
+            {
+              "name": "DeviceType",
+              "value": "Simulator"
+            },
+            {
+              "name": "Host",
+              "value": "mbt.tejaratbank.ir"
+            },
+            {
+              "name": "OSVer",
+              "value": "PWA"
+            },
+            {
+              "name": "Origin",
+              "value": "https://hb.tejaratbank.ir"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "https://hb.tejaratbank.ir/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-site"
+            },
+            {
+              "name": "Signature",
+              "value": "PWA"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 1187,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 15 Aug 2025 09:44:16 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "Fri, 15 Aug 2025 09:44:15 GMT"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Server",
+              "value": "nginx"
+            },
+            {
+              "name": "Set-Cookie",
+              "value": "JSESSIONID=6AA3B435935AED0FCAF37A2235F9FDA7; Path=/; HttpOnly"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Method"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Headers"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_200_86400",
+              "value": "200"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_20_60",
+              "value": "20"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_200_86400",
+              "value": "198"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_20_60",
+              "value": "18"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_200_86400",
+              "value": "86400000"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_20_60",
+              "value": "60000"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "content-length",
+              "value": "2315"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "JSESSIONID",
+              "value": "6AA3B435935AED0FCAF37A2235F9FDA7",
+              "path": "/",
+              "domain": "mbt.tejaratbank.ir",
+              "expires": null,
+              "httpOnly": true,
+              "secure": false
+            }
+          ],
+          "content": {
+            "size": 2315,
+            "mimeType": "application/json",
+            "compression": -1
+          },
+          "redirectURL": "",
+          "headersSize": 1290,
+          "bodySize": 2316,
+          "_transferSize": 3606,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "82.99.224.203",
+        "startedDateTime": "2025-08-14T22:06:16.334Z",
+        "time": 608.1029999913881,
+        "timings": {
+          "blocked": 100.40699998863506,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.369,
+          "wait": 506.3580000021299,
+          "receive": 0.9690000006230548,
+          "_blocked_queueing": 99.19699998863507,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "257333",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "call",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 14257
+              },
+              {
+                "functionName": "getDestinations",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 10,
+                "columnNumber": 4459
+              },
+              {
+                "functionName": "",
+                "scriptId": "141",
+                "url": "https://hb.tejaratbank.ir/js/30.03f50cc6d4321eddebc4.js",
+                "lineNumber": 0,
+                "columnNumber": 4571
+              },
+              {
+                "functionName": "rs",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 83207
+              },
+              {
+                "functionName": "_c",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102286
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "pc",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102045
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 101956
+              },
+              {
+                "functionName": "H",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 2782
+              },
+              {
+                "functionName": "L.port1.onmessage",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 1538
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "GET",
+          "url": "https://mbt.tejaratbank.ir/api/account/destination",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "fa,en-US;q=0.9,en;q=0.8"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Agent",
+              "value": "PWA"
+            },
+            {
+              "name": "AppVer",
+              "value": "1.3.7"
+            },
+            {
+              "name": "Authorization",
+              "value": "Basic eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0NTAxMTQ1MDMxIiwiRXh0cmFEYXRhIjoie1wiY3VzdG9tZXJJZFwiOjQ1MDExNixcInNlc3Npb25JZFwiOlwiMWEyMDliNjktOWMxOC00ODcxLThkYzEtN2Y4OGEyOGI5OGY0XCIsXCJjdXN0b21lclNvdXJjZVwiOjEsXCJmb3JlaWduZXJDb2RlXCI6bnVsbH0ifQ.RFwvCw6ts7r23nsdAcw9aWCr4lirgtJNnXes0gRspK58fbRC7RqtioDG6eazWaXlfz_lW0Kmpix92TKveUXuEg"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "CommunicationChannel",
+              "value": "REST"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "DeviceId",
+              "value": "62B21B4A-CE46-49FF-A51E-1DF382099ABC"
+            },
+            {
+              "name": "DeviceType",
+              "value": "Simulator"
+            },
+            {
+              "name": "Host",
+              "value": "mbt.tejaratbank.ir"
+            },
+            {
+              "name": "OSVer",
+              "value": "PWA"
+            },
+            {
+              "name": "Origin",
+              "value": "https://hb.tejaratbank.ir"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "https://hb.tejaratbank.ir/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-site"
+            },
+            {
+              "name": "Signature",
+              "value": "PWA"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 1187,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 15 Aug 2025 09:44:36 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "Fri, 15 Aug 2025 09:44:35 GMT"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Server",
+              "value": "nginx"
+            },
+            {
+              "name": "Set-Cookie",
+              "value": "JSESSIONID=4E7A750CE7C61DF62E46F25EEC063DC7; Path=/; HttpOnly"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Method"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Headers"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_200_86400",
+              "value": "200"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_20_60",
+              "value": "20"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_200_86400",
+              "value": "197"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_20_60",
+              "value": "17"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_200_86400",
+              "value": "86400000"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_account-destination_api_account_destination_4501145031_20_60",
+              "value": "60000"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "content-length",
+              "value": "2315"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "JSESSIONID",
+              "value": "4E7A750CE7C61DF62E46F25EEC063DC7",
+              "path": "/",
+              "domain": "mbt.tejaratbank.ir",
+              "expires": null,
+              "httpOnly": true,
+              "secure": false
+            }
+          ],
+          "content": {
+            "size": 2315,
+            "mimeType": "application/json",
+            "compression": -1
+          },
+          "redirectURL": "",
+          "headersSize": 1290,
+          "bodySize": 2316,
+          "_transferSize": 3606,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "82.99.224.203",
+        "startedDateTime": "2025-08-14T22:06:36.006Z",
+        "time": 606.4239999977872,
+        "timings": {
+          "blocked": 445.273999990725,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.12500000000000006,
+          "wait": 160.63100000464638,
+          "receive": 0.39400000241585076,
+          "_blocked_queueing": 444.86599999072496,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "257325",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "call",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 14257
+              },
+              {
+                "functionName": "getReasons",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 10,
+                "columnNumber": 10077
+              },
+              {
+                "functionName": "",
+                "scriptId": "141",
+                "url": "https://hb.tejaratbank.ir/js/30.03f50cc6d4321eddebc4.js",
+                "lineNumber": 0,
+                "columnNumber": 14681
+              },
+              {
+                "functionName": "rs",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 83207
+              },
+              {
+                "functionName": "_c",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102286
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "pc",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102045
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 101956
+              },
+              {
+                "functionName": "H",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 2782
+              },
+              {
+                "functionName": "L.port1.onmessage",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 1538
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "GET",
+          "url": "https://mbt.tejaratbank.ir/api/transfer/reasons",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "fa,en-US;q=0.9,en;q=0.8"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Agent",
+              "value": "PWA"
+            },
+            {
+              "name": "AppVer",
+              "value": "1.3.7"
+            },
+            {
+              "name": "Authorization",
+              "value": "Basic eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0NTAxMTQ1MDMxIiwiRXh0cmFEYXRhIjoie1wiY3VzdG9tZXJJZFwiOjQ1MDExNixcInNlc3Npb25JZFwiOlwiMWEyMDliNjktOWMxOC00ODcxLThkYzEtN2Y4OGEyOGI5OGY0XCIsXCJjdXN0b21lclNvdXJjZVwiOjEsXCJmb3JlaWduZXJDb2RlXCI6bnVsbH0ifQ.RFwvCw6ts7r23nsdAcw9aWCr4lirgtJNnXes0gRspK58fbRC7RqtioDG6eazWaXlfz_lW0Kmpix92TKveUXuEg"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "CommunicationChannel",
+              "value": "REST"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "DeviceId",
+              "value": "62B21B4A-CE46-49FF-A51E-1DF382099ABC"
+            },
+            {
+              "name": "DeviceType",
+              "value": "Simulator"
+            },
+            {
+              "name": "Host",
+              "value": "mbt.tejaratbank.ir"
+            },
+            {
+              "name": "OSVer",
+              "value": "PWA"
+            },
+            {
+              "name": "Origin",
+              "value": "https://hb.tejaratbank.ir"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "https://hb.tejaratbank.ir/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-site"
+            },
+            {
+              "name": "Signature",
+              "value": "PWA"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 1184,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 15 Aug 2025 09:44:36 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "Fri, 15 Aug 2025 09:44:35 GMT"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Server",
+              "value": "nginx"
+            },
+            {
+              "name": "Set-Cookie",
+              "value": "JSESSIONID=3B7D27AAD95BAC2B033D602927060F32; Path=/; HttpOnly"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Method"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Headers"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_reasons_api_transfer_reasons_4501145031_200_86400",
+              "value": "200"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_reasons_api_transfer_reasons_4501145031_5_60",
+              "value": "5"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_reasons_api_transfer_reasons_4501145031_200_86400",
+              "value": "198"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_reasons_api_transfer_reasons_4501145031_5_60",
+              "value": "3"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_reasons_api_transfer_reasons_4501145031_200_86400",
+              "value": "86400000"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_reasons_api_transfer_reasons_4501145031_5_60",
+              "value": "60000"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "content-length",
+              "value": "1549"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "JSESSIONID",
+              "value": "3B7D27AAD95BAC2B033D602927060F32",
+              "path": "/",
+              "domain": "mbt.tejaratbank.ir",
+              "expires": null,
+              "httpOnly": true,
+              "secure": false
+            }
+          ],
+          "content": {
+            "size": 1549,
+            "mimeType": "application/json",
+            "compression": -1
+          },
+          "redirectURL": "",
+          "headersSize": 1195,
+          "bodySize": 1550,
+          "_transferSize": 2745,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "82.99.224.203",
+        "startedDateTime": "2025-08-14T22:06:36.007Z",
+        "time": 629.4689999922412,
+        "timings": {
+          "blocked": 493.4179999874728,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.16500000000000004,
+          "wait": 135.46900000184215,
+          "receive": 0.41700000292621553,
+          "_blocked_queueing": 492.8489999874728,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "257785",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "call",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 5,
+                "columnNumber": 14257
+              },
+              {
+                "functionName": "infoMessageBox",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 10,
+                "columnNumber": 9734
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 98,
+                "columnNumber": 96160
+              },
+              {
+                "functionName": "rs",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 83207
+              },
+              {
+                "functionName": "_c",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102286
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "pc",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 102045
+              },
+              {
+                "functionName": "Xs",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 93594
+              },
+              {
+                "functionName": "",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45313
+              },
+              {
+                "functionName": "t.unstable_runWithPriority",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 63,
+                "columnNumber": 3843
+              },
+              {
+                "functionName": "Fr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45022
+              },
+              {
+                "functionName": "Gr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45258
+              },
+              {
+                "functionName": "Wr",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 45193
+              },
+              {
+                "functionName": "j",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 114342
+              },
+              {
+                "functionName": "Jt",
+                "scriptId": "7",
+                "url": "https://hb.tejaratbank.ir/main.03f50cc6d4321eddebc4.js",
+                "lineNumber": 55,
+                "columnNumber": 22723
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "GET",
+          "url": "https://mbt.tejaratbank.ir/api/customer/extra-info",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "fa,en-US;q=0.9,en;q=0.8"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Agent",
+              "value": "PWA"
+            },
+            {
+              "name": "AppVer",
+              "value": "1.3.7"
+            },
+            {
+              "name": "Authorization",
+              "value": "Basic eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0NTAxMTQ1MDMxIiwiRXh0cmFEYXRhIjoie1wiY3VzdG9tZXJJZFwiOjQ1MDExNixcInNlc3Npb25JZFwiOlwiMWEyMDliNjktOWMxOC00ODcxLThkYzEtN2Y4OGEyOGI5OGY0XCIsXCJjdXN0b21lclNvdXJjZVwiOjEsXCJmb3JlaWduZXJDb2RlXCI6bnVsbH0ifQ.RFwvCw6ts7r23nsdAcw9aWCr4lirgtJNnXes0gRspK58fbRC7RqtioDG6eazWaXlfz_lW0Kmpix92TKveUXuEg"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "CommunicationChannel",
+              "value": "REST"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "DeviceId",
+              "value": "62B21B4A-CE46-49FF-A51E-1DF382099ABC"
+            },
+            {
+              "name": "DeviceType",
+              "value": "Simulator"
+            },
+            {
+              "name": "Host",
+              "value": "mbt.tejaratbank.ir"
+            },
+            {
+              "name": "OSVer",
+              "value": "PWA"
+            },
+            {
+              "name": "Origin",
+              "value": "https://hb.tejaratbank.ir"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "https://hb.tejaratbank.ir/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-site"
+            },
+            {
+              "name": "Signature",
+              "value": "PWA"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 1187,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 15 Aug 2025 09:50:05 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "Fri, 15 Aug 2025 09:50:04 GMT"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Server",
+              "value": "nginx"
+            },
+            {
+              "name": "Set-Cookie",
+              "value": "JSESSIONID=0B415A41E24386D0B15D2C4C9799A2B0; Path=/; HttpOnly"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Method"
+            },
+            {
+              "name": "Vary",
+              "value": "Access-Control-Request-Headers"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_200_86400",
+              "value": "200"
+            },
+            {
+              "name": "X-RateLimit-Limit-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_5_60",
+              "value": "5"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_200_86400",
+              "value": "197"
+            },
+            {
+              "name": "X-RateLimit-Remaining-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_5_60",
+              "value": "4"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_200_86400",
+              "value": "86400000"
+            },
+            {
+              "name": "X-RateLimit-Reset-rate_limit_gateway-service_extra-info_api_customer_extra-info_4501145031_5_60",
+              "value": "60000"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "content-length",
+              "value": "1245"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "JSESSIONID",
+              "value": "0B415A41E24386D0B15D2C4C9799A2B0",
+              "path": "/",
+              "domain": "mbt.tejaratbank.ir",
+              "expires": null,
+              "httpOnly": true,
+              "secure": false
+            }
+          ],
+          "content": {
+            "size": 1245,
+            "mimeType": "application/json",
+            "compression": -1
+          },
+          "redirectURL": "",
+          "headersSize": 1231,
+          "bodySize": 1246,
+          "_transferSize": 2477,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "82.99.224.203",
+        "startedDateTime": "2025-08-14T22:12:05.632Z",
+        "time": 1012.7359999896726,
+        "timings": {
+          "blocked": 722.0859999994841,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.17900000000000005,
+          "wait": 289.21300000086796,
+          "receive": 1.257999989320524,
+          "_blocked_queueing": 721.520999999484,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      }
+    ]
+  }
+}
